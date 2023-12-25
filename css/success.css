@@ -1,0 +1,172 @@
+.wrapper-1 {
+	width: 100%;
+
+	display: flex;
+	flex-direction: column;
+	background-color: #000;
+
+}
+
+.wrapper-2 {
+	padding: 30px;
+
+	text-align: right;
+	display: flex;
+
+}
+
+.wrapper-2 img {
+	width: 40px;
+
+}
+
+h1 {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 1.6em;
+	letter-spacing: 3px;
+	color: #5892FF;
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+.wrapper-2 p {
+	margin: 0;
+
+	color: #aaa;
+	font-family: 'Bai Jamjuree', sans-serif;
+	letter-spacing: 1px;
+	text-align: right;
+	font-size: 1.1em;
+}
+
+.details p {
+	margin: 0;
+	font-size: 1.0em;
+	color: #aaa;
+	font-family: 'Source Sans Pro', sans-serif;
+	letter-spacing: 1px;
+	text-align: right;
+
+}
+
+p {
+	margin: 0;
+	font-size: 1.3em;
+	color: #aaa;
+	font-family: 'Source Sans Pro', sans-serif;
+	letter-spacing: 1px;
+	text-align: left;
+}
+
+.go-home {
+	color: #fff;
+	background: #5892FF;
+	border: none;
+	padding: 10px 50px;
+	margin: 30px 0;
+
+	text-transform: capitalize;
+	box-shadow: 0 10px 16px 1px rgba(174, 199, 251, 1);
+}
+
+.footer-like {
+	margin-top: auto;
+	background: #D7E6FE;
+	padding: 6px;
+	text-align: center;
+}
+
+.footer-like p {
+	margin: 0;
+	padding: 4px;
+	color: #5892FF;
+	font-family: 'Source Sans Pro', sans-serif;
+	letter-spacing: 1px;
+}
+
+.footer-like p a {
+	text-decoration: none;
+	color: #5892FF;
+	font-weight: 600;
+}
+
+@media (max-width:800px) {
+	h1 {
+		font-size: 4.5em;
+	}
+
+	.go-home {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width:200px) {
+	.content {
+		max-width: 1000px;
+		margin: 0 auto;
+
+
+		width: 100%;
+		overflow-x: auto;
+
+	}
+
+	.wrapper-1 {
+		height: initial;
+		max-width: 620px;
+		margin: 0 auto;
+		margin-top: 50px;
+		box-shadow: 4px 8px 40px 8px rgba(88, 146, 255, 0.2);
+		background-color: #000;
+	}
+
+}
+
+@media (max-width:435px) {
+	.wrapper-2 {
+		padding: 15px;
+	}
+
+	h1 {
+		font-size: 4.5em;
+	}
+
+	.go-home {
+		margin-bottom: 20px;
+	}
+
+	.wrapper-2 p {
+
+		font-size: 0.9em;
+		word-wrap: break-word;
+	}
+}
+
+h1 {
+	font-size: 1.6em;
+	font-size: 1.1em;
+	font-weight: 100;
+	letter-spacing: 0.54px;
+	color: #FFF;
+}
+
+.inforegis {
+	padding-left: 20px;
+	text-align: right;
+	margin-left: auto;
+}
+
+p.regid {
+
+	font-weight: 900;
+	margin-top: 10;
+	font-size: 1.2em;
+	letter-spacing: 2.7px;
+}
+
+a.cyberpunk2077,
+button.cyberpunk2077 {
+	width: auto;
+	margin-top: 20px;
+	text-decoration: none;
+}

@@ -1,0 +1,106 @@
+input[type="text"].cyberpunk,
+input[type="date"].cyberpunk,
+input[type="time"].cyberpunk,
+input[type="file"].cyberpunk,
+input[type="number"].cyberpunk,
+input[type="phone"].cyberpunk,
+input[type="password"].cyberpunk,
+textarea.cyberpunk,
+select.cyberpunk {
+	width: calc(100%);
+	border: 30px solid #474747;
+	border-right-color: rgb(71, 71, 71);
+	border-right-style: solid;
+	border-right-width: 30px;
+	border-bottom-color: rgb(71, 71, 71);
+	border-bottom-style: solid;
+	border-bottom-width: 30px;
+	border-left-color: rgb(71, 71, 71);
+	border-left-style: solid;
+	border-left-width: 30px;
+	border-right-color: rgb(0, 0, 0);
+	border-right-style: solid;
+	border-right-width: 30px;
+	border-bottom-color: rgb(0, 0, 0);
+	border-bottom-style: solid;
+	border-bottom-width: 30px;
+	border-left-color: rgb(0, 0, 0);
+	border-left-style: solid;
+	border-left-width: 30px;
+	border-left: 1px solid #2b2b2b;
+	border-right: 5px solid #464646;
+	border-bottom: 15px solid #4d4d4d;
+	clip-path: polygon(0px 25px, 17px 12px, 333px 12px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px) calc(100% - 10px), calc(80% - 15px) calc(100% + 0px), 10px calc(100% + 0px), 0% calc(100% - 10px));
+	margin-bottom: 10px;
+	padding: 20px;
+	font-size: 1.7rem;
+	font-size: 1.2rem;
+	font-weight: 100;
+}
+
+.validerror {
+	position: relative;
+	top: -18px;
+	font-size: 12px;
+	color: #d10000;
+	display: none;
+}
+
+.formsubmit:nth-child(2) {
+
+
+	opacity: 0;
+}
+
+.eventdetailstopic {
+
+	margin-left: 0px;
+}
+
+.navitem {
+
+	margin-left: 0;
+	margin-right: 50;
+
+}
+
+.eventdetails {
+	border-bottom: 0px solid #0ff;
+}
+
+@media only screen and (max-width:780px) {
+
+	input[type="text"].cyberpunk,
+	input[type="date"].cyberpunk,
+	input[type="time"].cyberpunk,
+	input[type="file"].cyberpunk,
+	input[type="number"].cyberpunk,
+	input[type="phone"].cyberpunk,
+	input[type="password"].cyberpunk,
+	textarea.cyberpunk,
+	select.cyberpunk {
+		width: calc(100%);
+		border: 3px solid #474747;
+		clip-path: none;
+		margin-bottom: 10px;
+		padding: 20px;
+		font-size: 1.7rem;
+		font-size: 1.2rem;
+		font-weight: 100;
+		border-radius: 20px;
+		margin-bottom: 25px;
+
+	}
+
+	.rightside {
+
+		display: none;
+	}
+
+	a.cyberpunk2077,
+	button.cyberpunk2077 {
+
+		width: auto;
+	}
+
+}

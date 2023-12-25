@@ -1,0 +1,113 @@
+
+   .grid-container {
+         background-color: transparent;
+         grid-template-columns: auto auto auto;
+         display: grid;
+         border-bottom-style: solid;
+         border-bottom-width: 1px;
+         border-bottom-color: rgba(0, 0, 0, 0.8);
+         border-bottom-style: solid;
+         border-bottom-width: 1px;
+         width: 100%;
+         font-size: 30px;
+         text-align: center;
+         	margin: auto;
+         border-radius: 20px;
+         border-bottom: 0px solid #232323;
+         padding-bottom: 6px;
+
+         }
+         .grid-item {
+         background-color: rgba(205, 205, 205, 0.42);
+         border: 1px solid rgba(0, 0, 0, 0.8);
+         border-bottom-color: rgba(0, 0, 0, 0.8);
+         border-bottom-style: solid;
+         border-bottom-width: 1px;
+         width: 200px;
+         font-size: 30px;
+         text-align: center;
+         margin: 1rem;
+         border-radius: 20px;
+         border-bottom: 5px solid #232323;
+         height: fit-content;
+         }
+         .grid-item img{
+width: auto;
+max-width: 100%;
+border-radius: 20px;
+  border-bottom-left-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-left-radius: 0px;
+object-fit: cover;
+			 min-height: 150px;
+         }
+         .sponcor-name{
+color: #fff;
+font-size: 18px;
+font-weight: 100px;
+padding-left: 10px;
+padding-bottom: 7px;
+padding-top: 3px;
+text-decoration: none;
+padding-bottom: 8px;
+height: 60px;
+word-wrap: break-word;
+padding-right: 5px;
+padding-left: 5px;
+		height: 45px;
+			 display: flex;
+justify-content: center;
+align-content: center;
+flex-direction: column;
+         }
+		  		  @media only screen and (max-width:780px) {
+			  
+			  .grid-container {
+     
+				  grid-template-columns: auto auto}
+					  .grid-item{
+						  
+						  margin-left: auto;
+						  margin-right: auto;
+					  }
+					  
+					  
+			  
+		  }
+		  @media only screen and (max-width: 523px) {
+			  
+			  .grid-container {
+         background-color: transparent;
+			 grid-template-columns: auto
+			  
+			  
+			  
+			  
+			  }
+			  
+		  }
+.rightside img{
+	width: 1500px;
+                     margin-left: 200px;
+                     margin-top: 0px;
+}
+.img-wrapper{
+width: 200px;
+overflow: hidden;
+	height: 150px;}
+.rightside {
+  position: fixed;
+  width: 40%;
+  right: 250px;
+  transform: rotate(-30deg);
+  z-index: -5;
+  top: 60px;
+}
+@media only screen and (max-width:780px) {
+	.rightside{
+		
+		display: none;
+	}
+	
+	
+}

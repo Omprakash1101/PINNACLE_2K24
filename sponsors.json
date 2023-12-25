@@ -1,0 +1,20 @@
+{
+  "sponsorslist": [{
+				   "name":"Eagle","imgurl":"https://i.ibb.co/xm4yH6G/eagle-logo.jpg","link":"#"},{
+				   "name":"Leo Bags","imgurl":"https://i.ibb.co/Zg4qHS3/leobags.jpg","link":"#"},
+				   {
+				   "name":"Velacherry Venkateshwara","imgurl":"https://i.ibb.co/YtNqFyL/velacherry-Venkates.jpg","link":"#"},
+				   {
+				   "name":"Fitness Factory","imgurl":"https://i.ibb.co/88K7dmm/Fitness-factory.jpg","link":"#"},
+				   {
+				   "name":"TNPL","imgurl":"https://i.ibb.co/G9Z2w23/tnpl.jpg","link":"#"},
+				   {
+				   "name":"AMHYPE","imgurl":"https://i.ibb.co/0nvMbLR/LOGO.png","link":"#"}
+
+				   
+,{
+				   "name":"<style>.rightside {position: fixed;width: 40%;right: 160;transform: rotate(-30deg);z-index: -5;top: 60;} .grid-item:last-child{display:none}</style>","imgurl":"","link":"#"
+				   }
+				  
+				  ]
+  }

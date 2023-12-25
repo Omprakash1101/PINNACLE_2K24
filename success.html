@@ -1,0 +1,187 @@
+<html>
+   <head>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+      <script src="js/nav.js"></script>
+      <script type="text/javascript" src="js/loading.js"></script>
+      <link rel="stylesheet" href="css/common.css">
+      <link rel="stylesheet" href="css/success.css">
+	      <meta charset="UTF-8">
+	     <meta name="description" content="Easwari Engineering College's Department of Information Technology brings to you, the biggest symposium for all the greatest minds to come together and showcase their talents with a mix of exciting events and have industry experts share their ideas and insights on various fields.8th June 22 - Save the date, and find yourself at the pinnacle of this techy non-exclusive extravaganza!">
+  <meta name="keywords" content="Pinnacle, symposium, JavaScript">
+  <meta name="author" content="IT Department">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta data-rh="true" property="og:description" content="Easwari Engineering College's Department of Information Technology brings to you, the biggest symposium for all the greatest minds to come together and showcase their talents with a mix of exciting events and have industry experts share their ideas and insights on various fields.8th June 22 - Save the date, and find yourself at the pinnacle of this techy non-exclusive extravaganza!">
+<meta data-rh="true" property="og:image" content="img/logo.jpg">
+<meta data-rh="true" property="og:site_name" content="Pinnacle2k22.com">
+<meta data-rh="true" property="og:title" content="Pinnacle - Registration Successfull">
+<meta property="og:image" content="img/logo.jpg">
+<meta property="og:image:type" content="image/jpg">
+<meta property="og:image:width" content="500">
+<meta property="og:image:height" content="500">
+<meta name="twitter:card" content="summary_large_image">
+   </head>
+   <body>
+      <div class="stripe">
+         <div class="container">
+            <div class="topnavcontainer">
+               <div class="topnavborder">
+                  <div class="navbar">
+                     <i class="fa fa-bars" onclick="showheader(this)" ></i>
+                     <div class="navitem"><a class="link" href="index.html">Home</a></div>
+                     <div class="navitem"><a   href="technicalevents.html">Technical Events</a></div>
+                     <div class="navitem"><a  class="link" href="nontechnicalevents.html">Non Technical Events</a></div>
+                     <div class="navitem"><a class="linkmain"    href="onlineevents.html">Online Events</a></div>
+                     <!-- <div class="navitem"><a class="link" href="sponsors.html">Sponsors</a></div> -->
+                     <div class="navitem"><a class="link" href="contactus.html">Contact us</a></div>
+                     <!-- <div class="navitem main"><a class="linkmain mainlink" class="link" href="eventregister.html">Registration</a></div> -->
+                  </div>
+               </div>
+            </div>
+            <div class="box glowing"></div>
+            <div class="maincontainer">
+            </div>
+            <div class="topic1">
+               <div class="mainpagecontainer">
+                  <div class="loading">
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                  </div>
+                  <div class="mainintro" id="typedtext" class="desc">
+                     <div id="html-content-holder"class=content>
+                        <div class="wrapper-1">
+                           <div class="wrapper-2">
+                              <img src="img/PINNACLE.png">
+                              <div class="inforegis">
+                                 <h1>Thank you for Registering ! !</h1>
+                                 <p>See ya at Sympo !  </p>
+                                 <p>Please bring the following Registration confirmation:  </p>
+                                 <p class="regid">Kdfdf50025</p>
+                                 <br>
+                                 <div class="details">
+                                    <p class="name">Srivathsan G:</p>
+                                    <p class="email">gsrivathsan2001@gmail.com</p>
+                                    <p class="mobile">9971069243</p>
+                                    <p class="college">Easwari Engineering College</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <a class="cyberpunk2077 formsubmit" id="btn-Convert-Html2Image">Download </a >
+                     <script>
+                        $(document).ready(function () {
+                                document.getElementsByClassName("name")[0].innerHTML = localStorage.getItem("name");
+                        			  document.getElementsByClassName("college")[0].innerHTML = localStorage.getItem("institute");
+                        			  document.getElementsByClassName("mobile")[0].innerHTML =localStorage.getItem("mobile");
+                        			    document.getElementsByClassName("email")[0].innerHTML =localStorage.getItem("email");
+                        			  document.getElementsByClassName("regid")[0].innerHTML = localStorage.getItem("regid");
+                                  var element = $("#html-content-holder"); // global variable
+                                  var getCanvas; //global variable
+                                  html2canvas(element, {
+                                      onrendered: function (canvas) {
+                                          getCanvas = canvas;
+                                      }
+                                  });
+                        
+                                  $("#btn-Convert-Html2Image").on('click', function () {
+                                      var imgageData = getCanvas.toDataURL("image/png");
+                                      //Now browser starts downloading it instead of just showing it
+                                      var newData = imgageData.replace(/^data:image\/png/, "data:application/octet-stream");
+                                      $("#btn-Convert-Html2Image").attr("download", document.getElementsByClassName("regid")[0].innerHTML+".png").attr("href", newData);
+                                  });
+                              });
+                          
+                     </script>  <script>
+                        function showheader(obj){
+                        
+                              if(obj.classList.contains("fa-close")){
+                        	
+                        	obj.classList.remove("fa-close");
+                        	obj.classList.add("fa-bars");
+                        	
+                        }
+                        else{
+                        			obj.classList.remove("fa-bars");
+                        	obj.classList.add("fa-close");	
+                        	
+                        }
+                        
+                        document.getElementsByClassName("topnavcontainer")[0].classList.toggle("responsivenavbg");
+                        document.getElementsByClassName("navbar")[0].classList.toggle("resnavitem");
+                        Array.from(document.getElementsByClassName("navitem")).forEach(obj=>{
+                        	if(obj.classList.contains("main")){
+                        		
+                        		obj.classList.toggle("resmain")
+                        	}else{
+                        		
+                        	obj.classList.toggle("resnavitem");	
+                        	}
+                        	
+                        });
+                        	
+                        
+                        	
+                        
+                        	
+                        }
+                        
+                        
+                        
+                        
+                     </script>
+                     <script></script>
+                     <div class="rightside"><img src="img/logo.png" ></div>
+                     <style>
+                     </style>
+                  </div>
+               </div>
+               <div w3-include-html="htmlelements/smoke.html"></div>
+            </div>
+         </div>
+         <style>
+         </style>
+         <script>
+            function register(type)	  {
+            var btn = document.getElementsByClassName("cyberpunk2077 btnsubmit")[0];
+            localStorage.setItem("eventtype",type);
+            localStorage.setItem("eventname",btn.value);
+            return true;
+            
+            
+            }
+                
+            var obj = document.getElementsByClassName("link");
+            for (var i = 0; i < obj.length; i++) {
+            
+            obj[i].addEventListener("mouseenter",function(e){
+            
+            document.getElementsByClassName("linkmain")[0].classList.remove("mainlink");     
+            });
+            obj[i].addEventListener("mouseleave",function(e){
+            if(e.target!=document.getElementsByClassName("dropdownlist")[0] )
+            document.getElementsByClassName("linkmain")[0].classList.add("mainlink")
+            
+            });
+            
+            }		  
+            
+            $(".container2").delay(3000).fadeOut();
+            $(".stripe").delay(3100).fadeIn();
+            $(".topic1").delay(5000).fadeIn();
+            
+            
+         </script>
+         <style>
+         </style>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,25 @@
+
+ 
+   .lastrules {
+			 border-top:0px;
+         }
+@media (max-width:500px) {
+	.item{
+		
+		text-align: center;
+	}
+	
+	.backupbtn {
+		width: 100%;
+		text-align: center;
+	}
+	
+}
+@media only screen and (max-width:780px) {
+	.rightside{
+		
+		display: none;
+	}
+	
+	
+}

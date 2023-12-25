@@ -1,0 +1,268 @@
+<html>
+   <head>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	   <script src="js/nav.js"></script>
+	   <script type="text/javascript" src="js/loading.js"></script>
+      <link rel="stylesheet" href="css/common.css">
+      <link rel="stylesheet" href="css/register.css">
+	   	   	     <meta charset="UTF-8">
+  <meta name="description" content="Easwari Engineering College's Department of Information Technology brings to you, the biggest symposium for all the greatest minds to come together and showcase their talents with a mix of exciting events and have industry experts share their ideas and insights on various fields.8th June 22 - Save the date, and find yourself at the pinnacle of this techy non-exclusive extravaganza!">
+  <meta name="keywords" content="Pinnacle, symposium, JavaScript">
+  <meta name="author" content="IT Department">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta data-rh="true" property="og:description" content="Easwari Engineering College's Department of Information Technology brings to you, the biggest symposium for all the greatest minds to come together and showcase their talents with a mix of exciting events and have industry experts share their ideas and insights on various fields.8th June 22 - Save the date, and find yourself at the pinnacle of this techy non-exclusive extravaganza!">
+<meta data-rh="true" property="og:image" content="img/logo.jpg">
+<meta data-rh="true" property="og:site_name" content="Pinnacle2k22.com">
+<meta data-rh="true" property="og:title" content="Pinnacle - Registration">
+<meta property="og:image" content="img/logo.jpg">
+<meta property="og:image:type" content="image/jpg">
+<meta property="og:image:width" content="500">
+<meta property="og:image:height" content="500">
+<meta name="twitter:card" content="summary_large_image">
+
+   </head>
+   <body>
+      <div class="stripe">
+         <div class="container">
+            <div class="topnavcontainer">
+               <div class="topnavborder">
+                  <div class="navbar">
+                     <i class="fa fa-bars" onclick="showheader(this)" ></i>
+                     <div class="navitem"><a class="link" href="index.html">Home</a></div>
+                     <div class="navitem"><a   href="technicalevents.html">Technical Events</a></div>
+                     <div class="navitem"><a  class="link" href="nontechnicalevents.html">Non Technical Events</a></div>
+					 <div class="navitem"><a class="link"    href="onlineevents.html">Online Events</a></div>
+                     <div class="navitem"><a class="link" href="sponsors.html">Sponsors</a></div>
+                     <div class="navitem"><a class="link" href="contactus.html">Contact us</a></div>
+                     <div class="navitem main"><a class="linkmain mainlink" class="link" href="eventregister.html">Registration</a></div>
+                  </div>
+               </div>
+            </div>
+            <div class="box glowing"></div>
+            <div class="maincontainer">
+            </div>
+            <div class="topic1">
+               <div class="mainpagecontainer">
+				    <div class="loading">
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                     <div class="obj"></div>
+                 </div>
+               
+                  <div class="mainintro" id="typedtext" class="desc">
+                     <div class="eventdetails tech">
+                        <h1>Registration</h1>
+                        <h3 class="eventdetailstopic" ></h3>
+                        <input class="cyberpunk name" placeholder="Enter Your Name" name="name" type="text">
+                        <div class="validerror name">Enter Valid name</div>
+                        <input class="cyberpunk email" placeholder="Enter Your Email" name="Email" type="text">
+                        <div class="validerror email">Enter Valid Email</div>
+                        <input class="cyberpunk college" placeholder="Enter Your College" name="College" type="text">
+                        <input class="cyberpunk mobile" placeholder="Enter Your Mobile Number" type="number"><br>
+                        <a class="cyberpunk2077 formsubmit">Submit</a>
+                     </div>
+                     <a class="cyberpunk2077 formsubmit">Submit</a>
+                     <script>
+
+                        document.getElementsByClassName("formsubmit cyberpunk2077")[0].addEventListener("click",function(e){	
+                        var obj = new Object();
+                        obj.name =document.getElementsByClassName("cyberpunk name")[0].value;
+                        obj.email =document.getElementsByClassName("cyberpunk email")[0].value;
+                        obj.institute =document.getElementsByClassName("cyberpunk college")[0].value;
+                        obj.mobile =document.getElementsByClassName("cyberpunk mobile")[0].value;
+                        var url = "https://6f08-2400-6180-100-d0-00-aa3-1001.in.ngrok.io/api/v1/register-me";
+                        var url = "https://6f08-2400-6180-100-d0-00-aa3-1001.in.ngrok.io/api/v1/register-me";
+                        var today = new Date();
+                        var dd = String(today.getDate()).padStart(2, '0');
+                         var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+                        var yyyy = today.getFullYear();
+							today = mm + '-' + dd + '-' + yyyy;
+							myDate = today.split("-");
+                            var newDate = new Date( myDate[2], myDate[1] - 1, myDate[0]);
+
+                        var xhr = new XMLHttpRequest();
+                        xhr.open("POST", url);
+                        
+                        xhr.setRequestHeader("Content-Type", "application/json");
+                        
+                        xhr.onreadystatechange = function () {
+                        if (xhr.readyState === 4) {
+                        if(parseInt(xhr.status)==200){
+                        
+                        alert("Registered Successfully - Your Registration ID is: "+xhr.responseText +"\n"+"Take ScreenShot");
+							localStorage.setItem("regid",xhr.responseText);
+                            localStorage.setItem("name",obj.name);
+							 localStorage.setItem("email",obj.email);
+							 localStorage.setItem("mobile",obj.mobile);
+							 localStorage.setItem("institute",obj.institute);
+						     const a = document.createElement("a");
+						      a.setAttribute("href", "success.html");
+                              document.body.appendChild(a);
+						      a.click()
+                        }
+                        else if(parseInt(xhr.status)==406){
+                        
+                          if (xhr.response[0] != '{')
+                                 {   alert(xhr.response);}
+                                 else{
+                                    alert("Participant already registered !!");
+                              }
+                        
+                        }
+                        console.log(xhr.status);
+                        console.log(xhr.responseText);
+                        }};
+                        
+                        var data = `{
+                        "name":"`+obj.name+`",
+                        "email":"`+obj.email+`",
+                        "mobile":`+obj.mobile+`,
+                        "dob":`+newDate.getTime()+`,
+                        "institute":"`+obj.institute+`"
+                        }`;
+                        
+                        xhr.send(data);																								
+                        
+                        
+                        });
+                        document.getElementsByClassName("cyberpunk name")[0].addEventListener("keyup",function(e){	
+                        obj=e.target;
+                        
+                        if(!/^[A-Za-z\s]*$/.test(obj.value)){
+                        
+                        
+                        obj.value = obj.value.slice(0,-1);
+                        
+                        
+                        }
+                        });
+                          document.getElementsByClassName("cyberpunk college")[0].addEventListener("keyup",function(e){	
+                        obj=e.target;
+                        if(!/^[A-Za-z\s]*$/.test(obj.value)){
+                        
+                        
+                        obj.value = obj.value.slice(0,-1);
+                        
+                        
+                        }
+                        });       
+                        
+                        
+                        
+                        document.getElementsByClassName("cyberpunk mobile")[0].addEventListener("keyup",function(e){	
+                        obj=e.target;
+                        let isnum = /^\d+$/.test(obj.value);
+                        if(!isnum || obj.value.length>10){
+                        
+                        obj.value = obj.value.slice(0,-1);
+                        
+                        }});
+                        
+                        
+                        
+                        document.getElementsByClassName("cyberpunk email")[0].addEventListener("keyup",function(e){	
+                        
+                        
+                        	
+                        });
+                        
+                        
+                        
+                        
+                        
+                        function showheader(obj){
+                        
+                              if(obj.classList.contains("fa-close")){
+                        	
+                        	obj.classList.remove("fa-close");
+                        	obj.classList.add("fa-bars");
+                        	
+                        }
+                        else{
+                        			obj.classList.remove("fa-bars");
+                        	obj.classList.add("fa-close");	
+                        	
+                        }
+                        
+                        document.getElementsByClassName("topnavcontainer")[0].classList.toggle("responsivenavbg");
+                        document.getElementsByClassName("navbar")[0].classList.toggle("resnavitem");
+                        Array.from(document.getElementsByClassName("navitem")).forEach(obj=>{
+                        	if(obj.classList.contains("main")){
+                        		
+                        		obj.classList.toggle("resmain")
+                        	}else{
+                        		
+                        	obj.classList.toggle("resnavitem");	
+                        	}
+                        	
+                        });
+                        	
+                        
+                        	
+                        
+                        	
+                        }
+                        
+                        
+                        
+                        
+                     </script>
+                     <script>
+              
+                        
+                     </script>
+                     <div class="rightside"><img src="img/logo.png" ></div>
+                     <style>
+                     </style>
+        
+                  </div>
+               </div>
+				   <div w3-include-html="htmlelements/smoke.html"></div>
+            </div>
+         </div>
+         <style>
+         </style>
+         <script>
+            function register(type)	  {
+            var btn = document.getElementsByClassName("cyberpunk2077 btnsubmit")[0];
+            localStorage.setItem("eventtype",type);
+            localStorage.setItem("eventname",btn.value);
+            return true;
+            
+            
+            }
+                
+            var obj = document.getElementsByClassName("link");
+            for (var i = 0; i < obj.length; i++) {
+            
+            obj[i].addEventListener("mouseenter",function(e){
+            
+            document.getElementsByClassName("linkmain")[0].classList.remove("mainlink");     
+            });
+            obj[i].addEventListener("mouseleave",function(e){
+            if(e.target!=document.getElementsByClassName("dropdownlist")[0] )
+            document.getElementsByClassName("linkmain")[0].classList.add("mainlink")
+            
+            });
+            
+            }		  
+            
+            $(".container2").delay(3000).fadeOut();
+            $(".stripe").delay(3100).fadeIn();
+            $(".topic1").delay(5000).fadeIn();
+        
+            
+         </script>
+         <style>
+         </style>
+      </div>
+
+   </body>
+</html>
