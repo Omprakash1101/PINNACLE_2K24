@@ -28,7 +28,7 @@ xhttp.onreadystatechange = function() {
 
     }
 };
-xhttp.open("GET", "https://shabari02.github.io/PINNACLE_2K24/details1.json", true);
+xhttp.open("GET", "https://Omprakash1101.github.io/PINNACLE_2K24/details1.json", true);
 xhttp.send();
 
 $(document).ready(function() {
