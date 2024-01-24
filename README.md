@@ -3,4 +3,4 @@
 An Symposium of Website of IT Department, Easwari Engineering College
 Framework: HTML CSS , JS.
  
-Click <a href="" target="_blank">Here</a> to visit the website
+Click <a href="https://omprakash1101.github.io/PINNACLE_2K24/" target="_blank">Here</a> to visit the website
