@@ -17,7 +17,8 @@ xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         var mydata = JSON.parse(this.responseText);
         str1 = str1 + "Click on the event for more details<br><br>";
-        for (const key in mydata[eventtype]) {
+        for (const key in mydata) {
+		console.log(key)
             str = str + "<option onclick='getdeatils(this)' name='eventaname'  class='theevent'   value='" + key + "'>" + key + "</option> ";
             str1 = str1 + "<div class='item'>" + key + "</div>";
         }
