@@ -600,7 +600,7 @@
     "Photography": {
       "name": "Photography",
       "subline": "skill",
-      "desc": [],
+      "desc": [""],
       "contents": [
         {
           "Rules": [
