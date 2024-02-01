@@ -23,16 +23,16 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Rathish - 7871450699"
           ]
         },
         {
           "Venue": [
-            " DBMS lab"
+            "DBMS lab"
           ]
         },
         {
-          "Entry Fee":["₹50","Registration Fees mandatory(₹200)"]
+          "Entry Fee":["₹50/person","Registration Fees mandatory(₹200)"]
         },
         {
           "Registration": [
@@ -65,7 +65,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Prithvi Sai - 9841406368"
           ]
         },
         {
@@ -74,7 +74,7 @@
           ]
         },
         {
-          "Entry Fee":["₹50","Registration Fees mandatory(₹200)"]
+          "Entry Fee":["₹50/person","Registration Fees mandatory(₹200)"]
         },
         {
           "Registration": [
@@ -104,7 +104,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Vinodhini P - 6381735365"
           ]
         },
         {
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "Entry Fee": ["₹40","Registration Fees mandatory(₹200)"]
+          "Entry Fee": ["₹40/person","Registration Fees mandatory(₹200)"]
         },
         {
           "Registration": [
@@ -147,7 +147,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Balaji R - 8072327298"
           ]
         },
         {
@@ -156,7 +156,7 @@
           ]
         },
         {
-          "Entry Fee":["₹40","Registration Fees mandatory(₹200)"]
+          "Entry Fee":["₹40/person","Registration Fees mandatory(₹200)"]
         },
         {
           "Registration": [
@@ -191,8 +191,8 @@
         },
         {
           "Incharge": [
-            "name -phone.no",
-            "name -phone.no"
+            "Giridharan K - 9566157645",
+            "Nandheetha V - 9789964639"
           ]
         },
         {
@@ -230,7 +230,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Padma Prathibha G - 9345783714"
           ]
         },
         {
@@ -239,7 +239,7 @@
           ]
         },
         {
-          "Entry Fee": ["₹40","Registration Fees mandatory(₹200)"]
+          "Entry Fee": ["₹40/person","Registration Fees mandatory(₹200)"]
         },
         {
           "Registration": [
@@ -248,10 +248,10 @@
         }
       ]
     },
-    "Catch me Mr.": {
+    "Shark Tank": {
       "name": "Shark Tank",
       "subline": "",
-      "desc": ["description"
+      "desc": ["description" 
       ],
       "contents": [
         {
@@ -264,8 +264,8 @@
         },
         {
           "Incharge": [
-            "name - phone.no",
-            "name - phone.no"
+            "Arul Kumaran KV - 8608771095",
+            "Akash R- 7200761576"
           ]
         },
         {
@@ -285,21 +285,16 @@
     }
   },
   "NonTechnical": {
-    "Box Cricket": {
-      "name": "Box Cricket",
+    "PS5": {
+      "name": "PS5",
       "subline": "Game",
       "desc": [
-        "Cricket match with 5 players per team will be conducted in a box shaped field with underarm bowling and the fixtures will be based on the number of teams registered."
+        "description"
       ],
       "contents": [
         {
           "Rules": [
-            "5 players per team +1",
-            "Number of overs : 3",
-            "The umpire’s decision is final",
-            "Refund of the registration fee will not be entertained strictly.",
-            "Fixtures based on number of entries.",
-            "The organizing committee has full authority to revise the rules of the game."
+            "The rules"
           ]
         },
         {
@@ -308,18 +303,18 @@
         
         {
           "Incharge": [
-            "Nithish - 7305518114",
-            "Saravanan - 7871935518"
+            "name - phone.no",
+            "name - phone.no"
           ]
         },
         
         {
           "Venue": [
-            "Ground 1"
+            "Hi-Tech timing: 11.00 a.m"
           ]
         },
         {
-          "Entry Fee":["₹250"]
+          "Entry Fee":["₹100/game"]
         },
         {
           "Registration": [
@@ -328,8 +323,450 @@
         }
       ]
     },
-    "Futsal": {
-      "name": "Futsal",
+    "Start Music": {
+      "name": "Start Music",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "3 participants per team",
+            "Elimination will be based on round by round",
+            "Totally 3 rounds",
+            "Judges decision will be final",
+            "No vulnerability during the entire event"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no",
+            "name - phone.no",
+            "name - phone.no"
+          ]
+        },
+        {
+          "Venue": [
+            "Main block 2nd floor-1201"
+          ]
+        },
+        {
+          "Entry Fee":["₹40/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register"
+          ]
+        }
+      ]
+    },
+    "Adapt tune": {
+      "name": "Adapt tune",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "Individual participation",
+            "Participants have to perform for the give tune",
+            "No vulnerability should be there in there performance",
+            "Judgement will be based on the choreography,energy and attire of ur performance",
+            "Judges decision is final"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Venue": [
+            "TRP"
+          ]
+        },
+        {
+          "Entry Fee":["₹80/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register"
+          ]
+        }
+      ]
+    },
+    "Shipwreck": {
+      "name": "Shipwreck",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "The rules"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Venue": [
+            "Main block 3rd floor-1301"
+          ]
+        },
+        {
+          "Entry Fee":["₹50/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register"
+          ]
+        }
+      ]
+    },
+    "Carrom": {
+      "name": "Carrom",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "2 members per team",
+            "Matches will be in knockout based on points",
+            "Time duration will be alloted",
+            "Refree decisions is final",
+            "No vulnerability during the entire game "
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no",
+            "name - phone.no"
+          ]
+        },
+        {
+          "Venue": [
+            "Main block 2nd floor-1203"
+          ]
+        },
+        {
+          "Entry Fee":["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register"
+          ]
+        }
+      ]
+    },
+    "Cini Quiz": {
+      "name": "Cini Quiz",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "The rules"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Venue": [
+            "Main block 3rd floor-1302"
+          ]
+        },
+        {
+          "Entry Fee":["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register"
+          ]
+        }
+      ]
+    },
+    "Anime Quiz": {
+      "name": "Anime Quiz",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "2 members per team",
+            "Different rounds will there on anime content",
+            "Each rounds have elimination",
+            "Judges decision is final",
+            "No outside assistance"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Venue": [
+            "Main block 3rd floor-1302"
+          ]
+        },
+        {
+          "Entry Fee":["₹50/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register"
+          ]
+        }
+      ]
+    },
+    "Solo Singing": {
+      "name": "Solo Singing",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "This is an Individual event.",
+            "Participants are allowed to sing in any language.",
+            "Participant will ge given 3  minutes time for singing",
+            "Any form of vulgarity will lead to disqualification.",
+            "Decision of the Judges will be final"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Venue": [
+            "TRP"
+          ]
+        },
+        {
+          "Entry Fee":["₹80/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register"
+          ]
+        }
+      ]
+    }
+    
+  },
+  "OnlineEvents": {
+    "Photography": {
+      "name": "Photography",
+      "subline": "skill",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "Participants should strictly follow the theme",
+            "Results will be based on likes ",
+            "Only one entry from each participant is considered",
+            "The photos can be captured through mobile and DSLR camera",
+            "The photograph should not contain any watermark"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name- phone.no"
+          ]
+        },
+        {
+          "Entry Fee" : ["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register",
+            "Last date to register: 14rd Febraury 2024 6:00pm"
+          ]
+        }
+      ]
+    },
+    "Poster Making": {
+      "name": "Poster Making",
+      "subline": "skill",
+      "desc": [
+        "The inforamtion will be updated soon as possible",
+        "Dates - 21 & 22 Febraury, 6:00pm"
+      ],
+      "contents": [
+        {
+          "Rules": [
+            "Platform – Account",
+            "All players are allowed to have only one (1) account.",
+            "You are not allowed to share or use another person’s account. Your account is for your use and your use alone.",
+            "Failing to join within 10 minutes after the scheduled time will lead to disqualification."
+          ]
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "TEAMS AND ROSTERS": [
+            "Each team’s roster must consist of at least 5 players.",
+            "Each team’s roster will be allowed to have 5 main players and 1 substitute. Once the match starts, you cannot replace any player.",
+            "A player is allowed to represent only one (1) team’s roster in the same tournament."
+          ]
+        },
+        {
+          "CHEATING": [
+            "It is forbidden to cheat, modify the game files, exploit bugs, and/or use any third-party application which would give an unfair advantage against other users.",
+            "All cheats are completely forbidden to use under any circumstance while playing in tournament . Using any cheat will result in bans and disqualifications. This includes, but are not limited to:",
+            "ESP",
+            "Radar hacks",
+            "Wallhacks",
+            "Speed hacks",
+            "Aim hacks",
+            "Hitbox manipulation",
+            "Teleportation (any kind of teleportation, which is not possible in the game).",
+            "The usage of a bug/bugs to gain an advantage versus your opponents."
+          ]
+        },
+        {
+          "Entry Fee" : ["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register"
+          ]
+        }
+      ]
+    },
+    "Meme Making": {
+      "name": "Meme Making",
+      "subline": "skill",
+      "desc": [
+        "MODE : (ONLINE)"
+      ],
+      "contents": [
+        {
+          "Rules": [
+            "The rules"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Entry Fee" : ["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register",
+            "Last date to register: 14th Febraury 6:00pm"
+          ]
+        }
+      ]
+    },
+    "Who got talent": {
+      "name": "Who got talent",
+      "subline": "skill",
+      "desc": [
+        "MODE : (ONLINE)"
+      ],
+      "contents": [
+        {
+          "Rules": [
+            "1 min video upload",
+            "The rules"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Entry Fee" : ["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register",
+            "Last date to register: 14th Febraury 6:00pm"
+          ]
+        }
+      ]
+    },
+    "Logo Creation": {
+      "name": "Logo Creation",
+      "subline": "skill",
+      "desc": [
+        "Topic - Social awareness"
+      ],
+      "contents": [
+        {
+          "Rules": [
+            "Only 1 member can participate",
+            "The outcome should be relative with given theme",
+            "participants can use any software they want.",
+            "Copyrighted content cant be used.",
+            "Design should be below 5mb and  png format"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Entry Fee" : ["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register",
+            "Last date to register: 14th Febraury 6:00pm"
+          ]
+        }
+      ]
+    }
+  },
+  "Promotional": {
+     "Futsal": {
+      "name": "",
       "subline": "Game",
       "desc": ["A 4's football match of duration 3 mins per half where any team can participate with 2 rolling substitutes and the fixtures will be based on the number of teams registered."],
       "contents": [
@@ -368,500 +805,36 @@
         }
       ]
     },
-    "Fifa": {
-      "name": "Fifa",
+     "Flashmob": {
+      "name": "",
       "subline": "Game",
-      "desc": [],
+      "desc": ["description"],
       "contents": [
         {
           "Rules": [
-            "2 players per team (2 v 2)",
-            "Time : 6 minutes per half ",
-            "Fixtures based on number of entries.",
-            "Refund of the registration fee will not be entertained strictly"                      
+            "The rules"
           ]
         },
         {
-          "Rounds": []
+          "Rounds": [
+            
+          ]
         },
         {
           "Incharge": [
-            "Naveen Kumar TY - 7397292496"
+            "name - phone.no"
           ]
         },
         {
           "Venue": [
-            "HI TECH Hall"
+            "-"
           ]
         },
         {
-          "Entry Fee":["₹100"]
-        },
-        {
+          "Entry Fee":["₹200"]
+        },{
           "Registration": [
             "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "Uncharted": {
-      "name": "Uncharted",
-      "subline": "skill",
-      "desc": [ ],
-      "contents": [
-        {
-          "Rules": [
-            "A team must contain 3 members",
-            "Various task and Hints will be given on the spot",
-            "First team to find the hint and finish the task will be announced as winner"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "gopinath - 88385 09630",
-            "Gowtham - 6381480569"
-          ]
-        },
-        {
-          "Venue": [
-            "OAT"
-          ]
-        },
-        {
-          "Entry Fee":["₹150"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "Start Music": {
-      "name": "Start Music",
-      "subline": "Game",
-      "desc": [],
-      "contents": [
-        {
-          "Rules": [
-            "3 participants per team",
-            "Elimination will be based on round by round",
-            "Totally 3 rounds",
-            "Judges decision will be final",
-            "No vulnerability during the entire event"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Yamini - 8056106779",
-            "Ananya - 6369 019 840",
-            "Lakshmi priya - 82480 46872"
-          ]
-        },
-        {
-          "Venue": [
-            "Trp"
-          ]
-        },
-        {
-          "Entry Fee":["₹150"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "Adapt tune": {
-      "name": "Adapt tune",
-      "subline": "Game",
-      "desc": [],
-      "contents": [
-        {
-          "Rules": [
-            "Individual participation",
-            "Participants have to perform for the give tune",
-            "No vulnerability should be there in there performance",
-            "Judgement will be based on the choreography,energy and attire of ur performance",
-            "Judges decision is final"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Hemanth - 73389 97654"
-          ]
-        },
-        {
-          "Venue": [
-            "OAT"
-          ]
-        },
-        {
-          "Entry Fee":["₹50"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "Chess": {
-      "name": "Chess",
-      "subline": "Game",
-      "desc": [],
-      "contents": [
-        {
-          "Rules": [
-            "The touch move rule is followed",
-            "Understand 50 move draw rule",
-            "Game can be climb drawn after 50 moves if there is no pawn moves or no captures",
-            "Understand 3 fold reputation rule",
-            "The game can be climbed draw if the same exact position is repeated thrice",
-            "No outside assistance during the game",
-            "In case of any confusion/disputes talk to the tournament organisation",
-            "Standard Rapid timing will be followed in all rounds of matches",
-            "Existing prize will be awarded for the Winner"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Srivatsan - 8838595916"
-          ]
-        },
-        {
-          "Venue": [
-            "Lab - (Non AC)"
-          ]
-        },
-        {
-          "Entry Fee":["₹50"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "Carrom": {
-      "name": "Carrom",
-      "subline": "Game",
-      "desc": [],
-      "contents": [
-        {
-          "Rules": [
-            "2 members per team",
-            "Matches will be in knockout based on points",
-            "Time duration will be alloted",
-            "Refree decisions is final",
-            "No vulnerability during the entire game "
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Naveen Ks - 82204 60256",
-            "Naveen R - 89392 54620"
-          ]
-        },
-        {
-          "Venue": [
-            "Lab-(Non AC)"
-          ]
-        },
-        {
-          "Entry Fee":["₹100"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "First Blood (WWE)": {
-      "name": "First Blood (WWE)",
-      "subline": "Game",
-      "desc": [],
-      "contents": [
-        {
-          "Rules": [
-            "WWE Playstation 4 event",
-            "2 players per team",
-            "Matches will be in knock out",
-            "Elimination will based on teams getting first blood",
-            "No vulgarity allowed during matches ",
-            "Refree decisions will be final"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Abishek - 7550041964",
-            "Rajeshwaran - 9841839321"
-          ]
-        },
-        {
-          "Venue": [
-            "Class 1"
-          ]
-        },
-        {
-          "Entry Fee":["₹100"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "Anime Quiz": {
-      "name": "Anime Quiz",
-      "subline": "Game",
-      "desc": [],
-      "contents": [
-        {
-          "Rules": [
-            "2 members per team",
-            "Different rounds will there on anime content",
-            "Each rounds have elimination",
-            "Judges decision is final",
-            "No outside assistance"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Arun kumar - 96772 46151"
-          ]
-        },
-        {
-          "Venue": [
-            "Class 2"
-          ]
-        },
-        {
-          "Entry Fee":["₹100"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "Solo Singing": {
-      "name": "Solo Singing",
-      "subline": "Game",
-      "desc": [],
-      "contents": [
-        {
-          "Rules": [
-            "This is an Individual event.",
-            "Participants are allowed to sing in any language.",
-            "Participant will ge given 3  minutes time for singing",
-            "Any form of vulgarity will lead to disqualification.",
-            "Decision of the Judges will be final"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Keerthi Priya - 79043 59741"
-          ]
-        },
-        {
-          "Venue": [
-            "Hi-tech Hall 2"
-          ]
-        },
-        {
-          "Entry Fee":["₹50"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    }
-    
-  },
-  "OnlineEvents": {
-    "Photography": {
-      "name": "Photography",
-      "subline": "skill",
-      "desc": [],
-      "contents": [
-        {
-          "Rules": [
-            "Participants should strictly follow the theme",
-            "Results will be based on likes ",
-            "Only one entry from each participant is considered",
-            "The photos can be captured through mobile and DSLR camera",
-            "The photograph should not contain any watermark"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Kirubakaran - 93841 04799"
-          ]
-        },
-        {
-          "Entry Fee" : ["₹30"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
-            "Last date to register: 14rd Febraury 2024 6:00pm"
-          ]
-        }
-      ]
-    },
-    "Valorant": {
-      "name": "Valorant",
-      "subline": "skill",
-      "desc": [
-        "Dates - 21 & 22 Febraury, 6:00pm"
-      ],
-      "contents": [
-        {
-          "Rules": [
-            "Platform – Account",
-            "All players are allowed to have only one (1) account.",
-            "You are not allowed to share or use another person’s account. Your account is for your use and your use alone.",
-            "Failing to join within 10 minutes after the scheduled time will lead to disqualification."
-          ]
-        },
-        {
-          "Incharge": [
-            "Akash V - 98409 45127"
-          ]
-        },
-        {
-          "TEAMS AND ROSTERS": [
-            "Each team’s roster must consist of at least 5 players.",
-            "Each team’s roster will be allowed to have 5 main players and 1 substitute. Once the match starts, you cannot replace any player.",
-            "A player is allowed to represent only one (1) team’s roster in the same tournament."
-          ]
-        },
-        {
-          "CHEATING": [
-            "It is forbidden to cheat, modify the game files, exploit bugs, and/or use any third-party application which would give an unfair advantage against other users.",
-            "All cheats are completely forbidden to use under any circumstance while playing in tournament . Using any cheat will result in bans and disqualifications. This includes, but are not limited to:",
-            "ESP",
-            "Radar hacks",
-            "Wallhacks",
-            "Speed hacks",
-            "Aim hacks",
-            "Hitbox manipulation",
-            "Teleportation (any kind of teleportation, which is not possible in the game).",
-            "The usage of a bug/bugs to gain an advantage versus your opponents."
-          ]
-        },
-        {
-          "Entry Fee" : ["₹200"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
-          ]
-        }
-      ]
-    },
-    "Reels Contest": {
-      "name": "Reels Contest",
-      "subline": "skill",
-      "desc": [
-        "MODE : (ONLINE)"
-      ],
-      "contents": [
-        {
-          "Rules": [
-            "1-2 persons can act in the reel",
-            "Winner is selected based on the performance and likes.",
-            "No person/animal should not  be harmed while making the reel",
-            "Reel should not be longer than 1 minute.",
-            "Participant name and symposium name must be used as the watermark in the reel."
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "SHRUTHIKAA - 8903529027",
-            "SRINITHI - 9884269014"
-          ]
-        },
-        {
-          "Entry Fee" : ["₹30"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
-            "Last date to register: 14th Febraury 6:00pm"
-          ]
-        }
-      ]
-    },
-    "Logo Designing": {
-      "name": "Logo Designing",
-      "subline": "skill",
-      "desc": [
-        "Topic - Social awareness"
-      ],
-      "contents": [
-        {
-          "Rules": [
-            "Only 1 member can participate",
-            "The outcome should be relative with given theme",
-            "participants can use any software they want.",
-            "Copyrighted content cant be used.",
-            "Design should be below 5mb and  png format"
-          ]
-        },
-        {
-          "Rounds": []
-        },
-        {
-          "Incharge": [
-            "Barath Kumar - 63853 80500"
-          ]
-        },
-        {
-          "Entry Fee" : ["₹30"]
-        },
-        {
-          "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
-            "Last date to register: 14th Febraury 6:00pm"
           ]
         }
       ]
