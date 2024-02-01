@@ -333,19 +333,22 @@
     "Start Music": {
       "name": "Start Music",
       "subline": "Game",
-      "desc": [],
+      "desc": ["This event is based on music, features two members in each team competing in various music based rounds. Join us for an event of musical euphoria where fun is the key note."],
       "contents": [
         {
           "Rules": [
-            "3 participants per team",
-            "Elimination will be based on round by round",
-            "Totally 3 rounds",
-            "Judges decision will be final",
-            "No vulnerability during the entire event"
+           "2 participants per team",
+            "Teams will be eliminated based on their performance in each round.",
+            "Mobile phones are strictly prohibited during the event.",
+            "Judges decision will be final.",
+            "No vulnerability will be entertained."
           ]
         },
         {
-          "Rounds": []
+          "Rounds": ["There are three interesting rounds namely:",
+            "Musical Connexions-connect the displayed images to find the song.",
+            "Shortlisted teams will navigate songs with unpredictable pauses,they will have to guess the upcoming lyric.",
+            "The final round is where one member wears headphones to act the song played while the other team member finds it."]
         },
         {
           "Incharge": [
@@ -372,15 +375,15 @@
     "Adapt tune": {
       "name": "Adapt tune",
       "subline": "Game",
-      "desc": [],
+      "desc": ["Show off your dance skills in this amazing platform where you sync your brains and legs to adapt yourself to the beats!"],
       "contents": [
         {
           "Rules": [
-            "Individual participation",
-            "Participants have to perform for the give tune",
-            "No vulnerability should be there in there performance",
-            "Judgement will be based on the choreography,energy and attire of ur performance",
-            "Judges decision is final"
+            "It’s a solo event.",
+            "Timing :- maximum 3 minutes.",
+            "Music will be continuously played in random.",
+            "Participants should dance according to the music played.",
+            "Judge’s decision will be final."
           ]
         },
         {
@@ -409,11 +412,15 @@
     "Shipwreck": {
       "name": "Shipwreck",
       "subline": "Game",
-      "desc": [],
+      "desc": ["Ahoy, brave souls! The Lost at Sea Challenge awaits! Picture this: a grand ship has found itself in treacherous waters, and it’s up to you sailors, a group of daring students, to navigate the stormy seas of debate and prove your worth to the enigmatic Captain."],
       "contents": [
         {
           "Rules": [
-            "The rules"
+            "It is an individual event.",
+            "Captain has a life jacket convince them to secure a spot on the lifeboat.",
+            "Imagination’s stranded; Prominent personalities will be assigned to students.",
+            "Prove your role’s survival importance. Surprises will test your adaptability and strategic thinking during the debate.",
+            "Awards for wit, eloquence, teamwork and a lifeboat seat for top survivors!"
           ]
         },
         {
@@ -442,15 +449,18 @@
     "Carrom": {
       "name": "Carrom",
       "subline": "Game",
-      "desc": [],
+      "desc": ["Show of ur skills for the amazing carrom pool with the striker."],
       "contents": [
         {
           "Rules": [
-            "2 members per team",
-            "Matches will be in knockout based on points",
-            "Time duration will be alloted",
-            "Refree decisions is final",
-            "No vulnerability during the entire game "
+            "It is an individual event",
+            "Color Black coin contains 10 points",
+            "White coin contains 20 points",
+            "Red coin contains 50 points",
+            "Who scores maximum at the end of the game will be considered as the winner.",
+            "Every game is a knockout game",
+            "Participants should come on time.",
+            "Final decision will be made by the organisation. "
           ]
         },
         {
@@ -682,6 +692,42 @@
         {
           "Rules": [
             "The rules"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Entry Fee" : ["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register",
+            "Last date to register: 14th Febraury 6:00pm"
+          ]
+        }
+      ]
+    },
+    "Meme Making": {
+      "name": "Meme Making",
+      "subline": "skill",
+      "desc": [
+        "Gear up and get ready for an adrenaline-fueled battle in the virtual arena! Calling all Valorant enthusiasts to showcase their skills and strategic prowess in our electrifying online event."
+      ],
+      "contents": [
+        {
+          "Rules": [
+            "Team Formation: Teams can consist of a minimum of 5 players and a maximum of 7 players. Solo participants are also welcome to join and will be assigned to teams as needed.",
+            "Registration: All participants must register prior to the event’s deadline. Late registrations will not be accepted.",
+            "Match Reporting: Teams are responsible for reporting matches and in a timely manner to tournament organizers.",
+            "Fair Play: Cheating, exploiting bugs, or any form of unfair advantage will result in immediate disqualification.",
+            "Behavior: Participants are expected to maintain respectful behavior towards opponents and organizers. ",
+            "Finality: All decisions made by tournament organizers are final and binding."
           ]
         },
         {
