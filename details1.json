@@ -703,6 +703,42 @@
         }
       ]
     },
+    "Valorant": {
+      "name": "Valorant",
+      "subline": "skill",
+      "desc": [
+        "Gear up and get ready for an adrenaline-fueled battle in the virtual arena! Calling all Valorant enthusiasts to showcase their skills and strategic prowess in our electrifying online event."
+      ],
+      "contents": [
+        {
+          "Rules": [
+            "Team Formation: Teams can consist of a minimum of 5 players and a maximum of 7 players. Solo participants are also welcome to join and will be assigned to teams as needed.",
+            "Registration: All participants must register prior to the event’s deadline. Late registrations will not be accepted.",
+            "Match Reporting: Teams are responsible for reporting matches and in a timely manner to tournament organizers.",
+            "Fair Play: Cheating, exploiting bugs, or any form of unfair advantage will result in immediate disqualification.",
+            "Behavior: Participants are expected to maintain respectful behavior towards opponents and organizers. ",
+            "Finality: All decisions made by tournament organizers are final and binding."
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "name - phone.no"
+          ]
+        },
+        {
+          "Entry Fee" : ["₹30/person"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;' href='#'>here</a> to register",
+            "Last date to register: 14th Febraury 6:00pm"
+          ]
+        }
+      ]
+    },
     "Who got talent": {
       "name": "Who got talent",
       "subline": "skill",
