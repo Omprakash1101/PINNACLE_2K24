@@ -604,11 +604,13 @@
       "contents": [
         {
           "Rules": [
-            "Participants should strictly follow the theme",
-            "Results will be based on likes ",
-            "Only one entry from each participant is considered",
-            "The photos can be captured through mobile and DSLR camera",
-            "The photograph should not contain any watermark"
+            "All photos must be original work, taken by the entrants.",
+            "Participants are allowed to submit only one photograph along with their name.",
+            "The winner will be contacted via the email address provided during entry.",
+            "Minimal Editing is allowed.",
+            "Vulgarity in any form is prohibited.",
+            "Judge’s Decision will be Final.",
+            "Exciting prizes awaiting."
           ]
         },
         {
@@ -616,7 +618,8 @@
         },
         {
           "Incharge": [
-            "L. NITHIN SHIV SUNDAR - 9840627103"
+            "L. NITHIN SHIV SUNDAR - 9840627103",
+            "Arul Kumaran - 8608771095"
           ]
         },
         {
@@ -686,12 +689,19 @@
       "name": "Meme Making",
       "subline": "skill",
       "desc": [
-        "MODE : (ONLINE)"
+        "Theme : CURRENT AFFAIRS",
+        "File Format : JPEG",
+        "Aspect Ratio : 4:3"
       ],
       "contents": [
         {
           "Rules": [
-            "The rules"
+            "Be original, avoiding cliches or overused formats.",
+            "Align your meme with the contest’s theme.",
+            "Adhere to content guidelines, avoiding inappropriate material.",
+            "Follow specified submission guidelines and Submit before the deadline.",
+            "Craft clear and creative memes.",
+            "Avoid copyrighted materials."
           ]
         },
         {
