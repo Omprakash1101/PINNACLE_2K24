@@ -676,13 +676,13 @@
       "name": "Meme Making",
       "subline": "skill",
       "desc": [
-        "Theme : CURRENT AFFAIRS<br>",
-        "File Format : JPEG<br>",
-        "Aspect Ratio : 4:3"
+        "Theme : CURRENT AFFAIRS"
       ],
       "contents": [
         {
           "Rules": [
+                    "File Format : JPEG",
+        "Aspect Ratio : 4:3",
             "Be original, avoiding cliches or overused formats.",
             "Align your meme with the contest’s theme.",
             "Adhere to content guidelines, avoiding inappropriate material.",
