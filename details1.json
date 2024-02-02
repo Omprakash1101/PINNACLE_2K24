@@ -310,8 +310,8 @@
         
         {
           "Incharge": [
-            "name - phone.no",
-            "name - phone.no"
+            "Sarveshvar - 9047875757",
+            "Naveen kumar TY - 7397292496"
           ]
         },
         
@@ -352,9 +352,9 @@
         },
         {
           "Incharge": [
-            "name - phone.no",
-            "name - phone.no",
-            "name - phone.no"
+            "Shruthikaa S - 8903529027",
+            "Tiana Maria M P  - 7305749641",
+            "Akhilan A - 9884725345"
           ]
         },
         {
@@ -391,7 +391,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Chinmyee S - 9176524488"
           ]
         },
         {
@@ -428,7 +428,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Serilda Victoria - 7845727445"
           ]
         },
         {
@@ -468,8 +468,8 @@
         },
         {
           "Incharge": [
-            "name - phone.no",
-            "name - phone.no"
+            "Srivatsan V - 8825422482",
+            "Sai Krishna - 8838199320"
           ]
         },
         {
@@ -490,7 +490,7 @@
     "Cini Quiz": {
       "name": "Cini Quiz",
       "subline": "Game",
-      "desc": [],
+      "desc": ["Embark on a cinematic journey like never before! The IT department proudly presents "Pinnacle," our college symposium's cinematic extravaganza. Join us for a cine quiz that transcends boundaries, featuring a diverse array of genres, languages, and styles, from commercial blockbusters to captivating art films."],
       "contents": [
         {
           "Rules": [
@@ -502,7 +502,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Hisham - 7598299894"
           ]
         },
         {
@@ -539,7 +539,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Naveen S - 6379959827"
           ]
         },
         {
@@ -576,7 +576,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Srinithi V - 9884269014"
           ]
         },
         {
@@ -600,7 +600,7 @@
     "Photography": {
       "name": "Photography",
       "subline": "skill",
-      "desc": [""],
+      "desc": ["Theme:- REFLECTION"],
       "contents": [
         {
           "Rules": [
@@ -616,7 +616,7 @@
         },
         {
           "Incharge": [
-            "name- phone.no"
+            "L. NITHIN SHIV SUNDAR - 9840627103"
           ]
         },
         {
@@ -648,7 +648,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Miruthula T V - 8903231137"
           ]
         },
         {
@@ -735,7 +735,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Dhipesh - 7358368344"
           ]
         },
         {
@@ -753,13 +753,17 @@
       "name": "Who got talent",
       "subline": "skill",
       "desc": [
-        "MODE : (ONLINE)"
+        "It is a 1-minute virtual event highlighting the diverse talents of students. In this dynamic platform, participants present their unique skills, from music , dance and acting. The event adds an entertaining and engaging dimension to the symposium, allowing students to express their creativity and contribute to the vibrant atmosphere of the academic gathering."
       ],
       "contents": [
         {
           "Rules": [
-            "1 min video upload",
-            "The rules"
+            "Eligibility: Participants must be currently enrolled college students.",
+            "Time Limit: Performances are strictly limited to 1 minute.",
+            "Solo or Group Acts: Participants can perform individually or in groups, but the time limit remains 1 minute regardless.",
+            "Judging Criteria: Performances will be evaluated based on creativity, skill, entertainment value, and overall impact within the 1-minute timeframe.",
+            "Submission Deadline: Participants must submit their entries by the specified deadline to be considered for the talent show.",
+            "winner: winners are selected based on the performance and likes which will be posted on our instagram page."
           ]
         },
         {
@@ -767,7 +771,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Akash R - 7200761576"
           ]
         },
         {
