@@ -560,21 +560,23 @@
     "Single Jam": {
       "name": "Single Jam",
       "subline": "Game",
-      "desc": [" You have the chance to exhibit your singing skills. The participants will be judged on the song selection, voice quality, clarity, rhythm and their appeal to the audience."],
+      "desc": ["There's always something to sing about and let's sing our hearts out. You have the chance to exhibit your singing skills. The participants will be judged on the song selection, voice quality, clarity, rhythm and their appeal to the audience."],
       "contents": [
         {
           "Rules": [
             "It is an individual event.",
-            "Participants are not allowed to refer lyrics.",
-            "Alloted time is 2 minutes.",
-            "Participants should bring their own karoke tracks.",
+            "Registration can be made either online or at the venue 30 minutes prior the event.",
+            "Registration fee has to be paid to the event coordinator at the venue 30 minutes prior the event.",
+            "Participants are not allowed to refer the lyrics.",
+            "Allotted time for round 1 is 2 minutes and round 2 is 1 minute.",
+            "Participants can bring their own karaoke tracks if needed.",
             "Any form of vulgarity will lead to disqualification.",
             "Decisions of the judges will be final."
           ]
         },
         {
-          "Rounds": ["First round:Participants will take the stage alone and render a captivating performance.",
-            "Second round:Shortlisted performers enter round 2 where they must deliver an impromptu performance based their assigned genre."]
+          "Rounds": ["ROUND 1: Participants will take the stage alone and render a captivating performance for 2 minutes.",
+            "ROUND 2: Shortlisted performers deliver an impromptu performance based on their assigned genre for a minute."]
         },
         {
           "Incharge": [
