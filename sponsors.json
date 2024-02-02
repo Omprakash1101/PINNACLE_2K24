@@ -1,17 +1,7 @@
 {
-  "sponsorslist": [{
-				   "name":"Eagle","imgurl":"https://i.ibb.co/xm4yH6G/eagle-logo.jpg","link":"#"},{
-				   "name":"Leo Bags","imgurl":"https://i.ibb.co/Zg4qHS3/leobags.jpg","link":"#"},
+  "sponsorslist": [
 				   {
-				   "name":"Velacherry Venkateshwara","imgurl":"https://i.ibb.co/YtNqFyL/velacherry-Venkates.jpg","link":"#"},
-				   {
-				   "name":"Fitness Factory","imgurl":"https://i.ibb.co/88K7dmm/Fitness-factory.jpg","link":"#"},
-				   {
-				   "name":"Skilpt","imgurl":"https://skilpt.com/wp-content/uploads/2023/12/cropped-Artboard-5-copy-13-2-255x85.png","link":"#"},
-				   {
-				   "name":"AMHYPE","imgurl":"https://i.ibb.co/0nvMbLR/LOGO.png","link":"#"}
-
-				   
+				   "name":"Skilpt","imgurl":"https://skilpt.com/wp-content/uploads/2023/12/cropped-Artboard-5-copy-13-2-255x85.png","link":"#"}
 ,{
 				   "name":"<style>.rightside {position: fixed;width: 40%;right: 160;transform: rotate(-30deg);z-index: -5;top: 60;} .grid-item:last-child{display:none}</style>","imgurl":"","link":"#"
 				   }
