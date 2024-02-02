@@ -676,12 +676,19 @@
       "name": "Meme Making",
       "subline": "skill",
       "desc": [
-        "MODE : (ONLINE)"
+        "Theme : CURRENT AFFAIRS",
+        "File Format : JPEG",
+        "Aspect Ratio : 4:3"
       ],
       "contents": [
         {
           "Rules": [
-            "The rules"
+            "Be original, avoiding cliches or overused formats.",
+            "Align your meme with the contest’s theme.",
+            "Adhere to content guidelines, avoiding inappropriate material.",
+            "Follow specified submission guidelines and Submit before the deadline.",
+            "Craft clear and creative memes.",
+            "Avoid copyrighted materials."
           ]
         },
         {
