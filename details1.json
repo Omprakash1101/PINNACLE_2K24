@@ -14,12 +14,12 @@
           "Rules": [
             "A team must contain 3 members.",
             "Basic programming knowledge is required.",
-            "Discussion among participants will not be entertained.. If found so, the team will be disqualified.",
+            "Discussion among participants will not be entertained. If found so, the team will be disqualified.",
             "The winner is determined by the total points of each team."
           ]
         },
         {
-          "Rounds": []
+          "Rounds": ["Round - 1: MCQs","Round - 2: Coding Problems"]
         },
         {
           "Incharge": [
@@ -28,7 +28,8 @@
         },
         {
           "Venue": [
-            "DBMS lab"
+            "Main Block - Software Engineering Lab, 3rd Floor",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -36,7 +37,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1xfX5xPpZP4u2dhqP48VuqGFE4LRS23NlIFgPWtIlRpI/edit'>here</a> to register"
           ]
         }
       ]
@@ -45,23 +46,20 @@
       "name": "Codezilla",
       "subline": "coding event",
       "desc": [
-        "This coding event is of 3 hours and divided into 2 rounds.",
-        " First round will be a simple programming round.",
-        " Second round will be of reverse coding round."
+        "Gear up for the ultimate coding battle! Codezilla, our flagship coding competition, will challenge your programming prowess and problem-solving skills. Compete against the best and showcase your coding finesse."
       ],
       "contents": [
         {
           "Rules": [
-            "This coding event is of 3 hours and divided into 2 rounds.",
-            " First round will be a simple programming round.",
-            " Second round will be of reverse coding round.",
-            "Tie breaker round will be conducted if required.",
-            " Judges decision will be final.",
-            " Malpractices will not be entertained. If found any, he/she will be disqualified from the event."
-          ]
+            "This is an individual event.",
+            "Participants have to bring their own laptops.",
+            "C, C++, Java and Python are allowed.",
+            "Any malpractice will not be entertained.",
+            "Judges decision will be final."
         },
         {
-          "Rounds": []
+          "Rounds": ["It would be conducted in 3 rounds.","The first round would be basic programming.",
+            "Second round would be Reverse Coding. And in the third round company specific questions would be asked and based on your performance, you may be offered an internship. "]
         },
         {
           "Incharge": [
@@ -70,7 +68,8 @@
         },
         {
           "Venue": [
-            "SE lab"
+            "Main block - DBMS LAB, 3rd Floor.",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -78,7 +77,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1-ebosU4es9CrTtSqNemeLoLF7D_8bhrVAD2y5yfdmI8/edit'>here</a> to register"
           ]
         }
       ]
@@ -104,12 +103,13 @@
         },
         {
           "Incharge": [
-            "Vinodhini P - 6381735365"
+            "Thamaraipriya - 9345882433"
           ]
         },
         {
           "Venue": [
-            "DS lab"
+            "Main block - 1302, 3rd Floor.",
+            "Timings : 12.30pm - 2.00pm"
           ]
         },
         {
@@ -117,7 +117,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1UbuJ5VoK2uSVxpWEsm5IyI2T1P7WtArWsUqIBsGu5NI/edit'>here</a> to register"
           ]
         }
       ]
@@ -126,20 +126,18 @@
       "name": "UI/UX design",
       "subline": "UI/UX Design",
       "desc": [
-        "This is an individual event which takes place for 1.5 hours.",
-        " It is a single round event where the participants will be given a theme on the spot.",
-        " The winner would be chosen based on judge's decision."
+        "It is a single round event where the participants will be given a website to recreate the UI/UX. The participant whose design is closest to the website"
       ],
       "contents": [
         {
           "Rules": [
             "This is an Individual event.",
             "Participants have to bring their own laptops.",
-            "Designing can be done in Figma/ Adobe XD.",
+            "Designing should be done in Figma.",
             "Design should not be done prior to the competition.",
-            "Participants should share their project URL.",
+            "Participants should share their Figma URL.",
             "Participants can use images of their own if necessary.",
-            "Participants should not use the pre-defined components from the external resources."
+            "Participants should not use the pre-defined components from the external resource."
           ]
         },
         {
@@ -147,12 +145,13 @@
         },
         {
           "Incharge": [
-            "Balaji R - 8072327298"
+            "Mohamed Ikram - 7299788770"
           ]
         },
         {
           "Venue": [
-            "PG block 5th floor lab"
+            "Main Block - OOPS Lab, 2nd Floor.",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -160,7 +159,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href=''>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1IfE_PrJaQsDIW8A_6jXuf2uaP3RlOtETY_VmI9tSmxs/edit'>here</a> to register"
           ]
         }
       ]
@@ -169,35 +168,30 @@
       "name": "Paper Presentation",
       "subline": "Buisness",
       "desc": [
-        "This event is to provide a platform for people to build their entrepreneurial journey by pitching and validating their ideas so that they can be implemented and get a chance to network with like-minded industry professionals."
+        "Prepare to delve into the depths of cutting-edge research and groundbreaking ideas at the Paper Presentation event. Aspiring researchers and scholars, this is your chance to showcase your in-depth understanding of contemporary IT trends and present your findings to an esteemed audience."
       ],
       "contents": [
         {
           "Rules": [
-            "A team can have 3-4 members.",
-            "Team can bring their prototypes, if any.",
-            "Create a pitch deck with your ideas and upload the following documents.",
-            "Each Team will have ten minutes to present their ideas",
-            "Copying an idea is strictly prohibited and disqualifies you.",
-            "The jury's decision is final.",
-            "The award will be based on the innovativeness and feasibility of the presented idea."
+            "Submit your research papers on topics and domains of recent technological trends.",
+            "A panel of experienced judges will evaluate the submissions based on innovation, relevance, and the depth of research.",
+            "Selected participants will have the opportunity to present their papers at \"Pinnacle\" and engage in insightful discussions with fellow researchers and attendees.",
+            "No vulnerability will be entertained." 
           ]
         },
         {
           "Rounds": [
-            "First round :Ideas would be pitched to professors.",
-            "Second round (Shortlisted teams):Ideas would be pitched to investors."
           ]
         },
         {
           "Incharge": [
-            "Giridharan K - 9566157645",
-            "Nandheetha V - 9789964639"
+            "Giridharan K - 9566157645"
           ]
         },
         {
           "Venue": [
-            "PG block 3rd floor-1"
+            " HI-TECH HALL - 1",
+            "Timings : 10.30am - 2.00pm"
           ]
         },
         {
@@ -205,7 +199,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/13tIaHNE675YTrvIK1sI6fhyP1RqhOPX1Xw7Gh2jwhT0/edit'>here</a> to register"
           ]
         }
       ]
@@ -220,13 +214,13 @@
       "contents": [
         {
           "Rules": [
-            "A team must contain 3 members.",
-            "Whichever team hits the buzzer first should answer within 10 seconds.",
-            "Host will decide who hits the buzzer first. Host’s decision would be final."
+            "Each member of a team should mandatorily purchase a register pass for participating in the technical events.",
+            "Only the top scoring teams advance to the next round each time.",
+            "The decision of the jury will be final."
           ]
         },
         {
-          "Rounds": []
+          "Rounds": ["There will be a total of 3 rounds - crosswords, connections, and dumb charades"]
         },
         {
           "Incharge": [
@@ -235,7 +229,8 @@
         },
         {
           "Venue": [
-            "OOPS lab"
+            "Main bock - 1301, 3rd Floor.",
+            "Timings : 12.30pm - 2.00pm"
           ]
         },
         {
@@ -243,7 +238,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1xGuc7zWxHix09fpf1eb6DwhxviOlrBPrSenxW5iQPJI/edit'>here</a> to register"
           ]
         }
       ]
@@ -271,13 +266,13 @@
         },
         {
           "Incharge": [
-            "Arul Kumaran KV - 8608771095",
-            "Akash R- 7200761576"
+            "Arul Kumaran KV - 8608771095"
           ]
         },
         {
           "Venue": [
-            "Main block 2nd floor-1204"
+            "PG Block - Web Technology Lab, 3rd Floor.",
+            "Timings : 12.30pm - 2.00pm"
           ]
         },
         {
@@ -285,7 +280,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1tleaukKSNXxGIbD8YoJu4RxjkcVBubPYtLSOckMWEt4/edit'>here</a> to register"
           ]
         }
       ]
@@ -296,13 +291,11 @@
       "name": "PS5",
       "subline": "Game",
       "desc": [
-        "description"
+        "Fifa 24"
       ],
       "contents": [
         {
-          "Rules": [
-            "The rules"
-          ]
+          "Rules": []
         },
         {
           "Rounds": []
@@ -310,14 +303,15 @@
         
         {
           "Incharge": [
-            "name - phone.no",
-            "name - phone.no"
+            "Sarveshvar - 9047875757",
+            "Naveen kumar TY - 7397292496"
           ]
         },
         
         {
           "Venue": [
-            "Hi-Tech timing: 11.00 a.m"
+            "Hi-Tech Hall-2",
+            "Timings : 10.30am - 3.00pm"
           ]
         },
         {
@@ -325,38 +319,40 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1oWzLf_ZoNtXew2Q7uDBNagiuS2SInbPexzhfraOq9a8/edit'>here</a> to register"
           ]
         }
       ]
     },
-    "Start Music": {
-      "name": "Start Music",
+    "Audio Roulette": {
+      "name": "Audio Roulette",
       "subline": "Game",
-      "desc": [],
+      "desc": ["This event is based on music, features two members in each team competing in various music based rounds. Join us for an event of musical euphoria where fun is the key note."],
       "contents": [
         {
           "Rules": [
-            "3 participants per team",
-            "Elimination will be based on round by round",
-            "Totally 3 rounds",
-            "Judges decision will be final",
-            "No vulnerability during the entire event"
+           "2 participants per team",
+            "Teams will be eliminated based on their performance in each round.",
+            "Mobile phones are strictly prohibited during the event.",
+            "Judges decision will be final.",
+            "No vulnerability will be entertained."
           ]
         },
         {
-          "Rounds": []
+          "Rounds": ["There are three interesting rounds namely:",
+            "Musical Connexions-connect the displayed images to find the song.",
+            "Shortlisted teams will navigate songs with unpredictable pauses,they will have to guess the upcoming lyric.",
+            "The final round is where one member wears headphones to act the song played while the other team member finds it."]
         },
         {
           "Incharge": [
-            "name - phone.no",
-            "name - phone.no",
-            "name - phone.no"
+            "Shruthikaa S - 8903529027"
           ]
         },
         {
           "Venue": [
-            "Main block 2nd floor-1201"
+            "Main block 2nd floor-1202 ",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -364,7 +360,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1xVMlmH2HM4TiZUz3SrntPy5BMpXagpIOQzbYsASayVE/edit'>here</a> to register"
           ]
         }
       ]
@@ -372,15 +368,15 @@
     "Adapt tune": {
       "name": "Adapt tune",
       "subline": "Game",
-      "desc": [],
+      "desc": ["Show off your dance skills in this amazing platform where you sync your brains and legs to adapt yourself to the beats!"],
       "contents": [
         {
           "Rules": [
-            "Individual participation",
-            "Participants have to perform for the give tune",
-            "No vulnerability should be there in there performance",
-            "Judgement will be based on the choreography,energy and attire of ur performance",
-            "Judges decision is final"
+            "It’s a solo event.",
+            "Timing :- maximum 3 minutes.",
+            "Music will be continuously played in random.",
+            "Participants should dance according to the music played.",
+            "Judge’s decision will be final."
           ]
         },
         {
@@ -388,12 +384,13 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Aishwariya– 8825531452"
           ]
         },
         {
           "Venue": [
-            "TRP"
+            "TRP Auditorium",
+            "Timings : 12.30pm - 2.00pm "
           ]
         },
         {
@@ -401,7 +398,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1JgkVZxwMHXdX4LkSr0Xzw3YRIEnHiFABfMW3T2NEZ0U/edit'>here</a> to register"
           ]
         }
       ]
@@ -409,11 +406,15 @@
     "Shipwreck": {
       "name": "Shipwreck",
       "subline": "Game",
-      "desc": [],
+      "desc": ["Ahoy, brave souls! The Lost at Sea Challenge awaits! Picture this: a grand ship has found itself in treacherous waters, and it’s up to you sailors, a group of daring students, to navigate the stormy seas of debate and prove your worth to the enigmatic Captain."],
       "contents": [
         {
           "Rules": [
-            "The rules"
+            "It is an individual event.",
+            "Captain has a life jacket convince them to secure a spot on the lifeboat.",
+            "Imagination’s stranded; Prominent personalities will be assigned to students.",
+            "Prove your role’s survival importance. Surprises will test your adaptability and strategic thinking during the debate.",
+            "Awards for wit, eloquence, teamwork and a lifeboat seat for top survivors!"
           ]
         },
         {
@@ -421,12 +422,13 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Serilda Victoria - 7845727445"
           ]
         },
         {
           "Venue": [
-            "Main block 3rd floor-1301"
+            "Main block 2nd floor-1203",
+            "Timings : 10.30am"
           ]
         },
         {
@@ -434,23 +436,26 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1rzfmkg3cX1ealfnJm2hfDrvJhBNUtmgVlSOO2s3ODso/edit'>here</a> to register"
           ]
         }
       ]
     },
-    "Carrom": {
-      "name": "Carrom",
+    "Vikings": {
+      "name": "Vikings",
       "subline": "Game",
-      "desc": [],
+      "desc": ["Show of ur skills for the amazing carrom pool with the striker."],
       "contents": [
         {
           "Rules": [
-            "2 members per team",
-            "Matches will be in knockout based on points",
-            "Time duration will be alloted",
-            "Refree decisions is final",
-            "No vulnerability during the entire game "
+            "It is an individual event",
+            "Color Black coin contains 10 points",
+            "White coin contains 20 points",
+            "Red coin contains 50 points",
+            "Who scores maximum at the end of the game will be considered as the winner.",
+            "Every game is a knockout game",
+            "Participants should come on time.",
+            "Final decision will be made by the organisation. "
           ]
         },
         {
@@ -458,13 +463,13 @@
         },
         {
           "Incharge": [
-            "name - phone.no",
-            "name - phone.no"
+            "Srivatsan V - 8825422482"
           ]
         },
         {
           "Venue": [
-            "Main block 2nd floor-1203"
+            "Main block 2nd floor-DS Lab",
+            "Timings : 10.30am"
           ]
         },
         {
@@ -472,7 +477,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1kV4WMCi8ry8hkgHiPg1oSXanz1SFRBg4lkvT3H5lXSQ/edit'>here</a> to register"
           ]
         }
       ]
@@ -484,7 +489,11 @@
       "contents": [
         {
           "Rules": [
-            "The rules"
+            "A team can have maximum of two participants.",
+            "Individual participation also encouraged.",
+            "Embark on a trivia adventure with three captivating rounds! . The triumph of each round opens the gate to the next challenge! .",
+            "All participants must register prior to the event's deadline.",
+            "All decisions made by tournament organizers are final."
           ]
         },
         {
@@ -492,12 +501,13 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Hisham - 7598299894"
           ]
         },
         {
           "Venue": [
-            "Main block 3rd floor-1302"
+            "Main block 2nd floor-1201",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -505,19 +515,19 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1Nw0Hx3VewStjRelOWCuO6va2lnkdPTTsMGB3hosW6ao/edit'>here</a> to register"
           ]
         }
       ]
     },
-    "Anime Quiz": {
-      "name": "Anime Quiz",
+    "Realm Riddles(Anime)": {
+      "name": "Realm Riddles(Anime)",
       "subline": "Game",
       "desc": [],
       "contents": [
         {
           "Rules": [
-            "2 members per team",
+            "1-2 members per team",
             "Different rounds will there on anime content",
             "Each rounds have elimination",
             "Judges decision is final",
@@ -529,12 +539,13 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Naveen S - 6379959827"
           ]
         },
         {
           "Venue": [
-            "Main block 3rd floor-1302"
+            "Main block 2nd floor-1201",
+            "Timings : 12.30pm - 2.00pm"
           ]
         },
         {
@@ -542,36 +553,39 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1IuzMBteBISVMO6G25R-U4K4iYsozs5x95rzo__TPJ58/edit'>here</a> to register"
           ]
         }
       ]
     },
-    "Solo Singing": {
-      "name": "Solo Singing",
+    "Single Jam": {
+      "name": "Single Jam",
       "subline": "Game",
-      "desc": [],
+      "desc": [" You have the chance to exhibit your singing skills. The participants will be judged on the song selection, voice quality, clarity, rhythm and their appeal to the audience."],
       "contents": [
         {
           "Rules": [
-            "This is an Individual event.",
-            "Participants are allowed to sing in any language.",
-            "Participant will ge given 3  minutes time for singing",
+            "It is an individual event.",
+            "Participants are not allowed to refer lyrics.",
+            "Alloted time is 2 minutes.",
+            "Participants should bring their own karoke tracks.",
             "Any form of vulgarity will lead to disqualification.",
-            "Decision of the Judges will be final"
+            "Decisions of the judges will be final."
           ]
         },
         {
-          "Rounds": []
+          "Rounds": ["First round:Participants will take the stage alone and render a captivating performance.",
+            "Second round:Shortlisted performers enter round 2 where they must deliver an impromptu performance based their assigned genre."]
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Srinithi V - 9884269014"
           ]
         },
         {
           "Venue": [
-            "TRP"
+            "TRP Auditorium",
+            "Timings : 10.30am - 12.00pm "
           ]
         },
         {
@@ -579,7 +593,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register"
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1-dyw50rEZ1YfXk1BwJgwnkj93pSDJRp3yS1toCVYgd0/edit'>here</a> to register"
           ]
         }
       ]
@@ -587,18 +601,20 @@
     
   },
   "OnlineEvents": {
-    "Photography": {
-      "name": "Photography",
+    "Photography Contest": {
+      "name": "Photography Contest",
       "subline": "skill",
-      "desc": [],
+      "desc": ["Theme:- REFLECTION"],
       "contents": [
         {
           "Rules": [
-            "Participants should strictly follow the theme",
-            "Results will be based on likes ",
-            "Only one entry from each participant is considered",
-            "The photos can be captured through mobile and DSLR camera",
-            "The photograph should not contain any watermark"
+            "All photos must be original work, taken by the entrants.",
+            "Participants are allowed to submit only one photograph along with their name.",
+            "The winner will be contacted via the email address provided during entry.",
+            "Minimal Editing is allowed.",
+            "Vulgarity in any form is prohibited.",
+            "Judge’s Decision will be Final.",
+            "Exciting prizes awaiting."
           ]
         },
         {
@@ -606,7 +622,7 @@
         },
         {
           "Incharge": [
-            "name- phone.no"
+            "L. NITHIN SHIV SUNDAR - 9840627103"
           ]
         },
         {
@@ -614,8 +630,8 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1kn83HszwcvtqFaiiUSZKyyaaurx0YQdd5OLOde6Nv2U/edit'>here</a> to register",
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
@@ -638,7 +654,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Miruthula T V - 8903231137"
           ]
         },
         {
@@ -667,7 +683,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1mHpZcVTntA38cRzg9sYG1vpq_axTEF8A279LSaNJmzo/edit'>here</a> to register",
             "Registration Opens on 9th February and closes on 15th February."
           ]
         }
@@ -682,7 +698,7 @@
       "contents": [
         {
           "Rules": [
-                    "File Format : JPEG",
+            "File Format : JPEG",
         "Aspect Ratio : 4:3",
             "Be original, avoiding cliches or overused formats.",
             "Align your meme with the contest’s theme.",
@@ -697,7 +713,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "sarveshvar - 9047875757"
           ]
         },
         {
@@ -705,8 +721,8 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/17RPpY5t4g6MVNbN4M_jiQn5pmIpqokQXlYiUZn2-MNE/edit'>here</a> to register",
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
@@ -733,7 +749,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Dhipesh - 7358368344"
           ]
         },
         {
@@ -741,8 +757,8 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1JKTZ6lUGcRjF24c8YYLcNKSa2mCnWmf7h7Yr6csl7Ys/edit'>here</a> to register",
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
@@ -751,13 +767,17 @@
       "name": "Who got talent",
       "subline": "skill",
       "desc": [
-        "MODE : (ONLINE)"
+        "It is a 1-minute virtual event highlighting the diverse talents of students. In this dynamic platform, participants present their unique skills, from music , dance and acting. The event adds an entertaining and engaging dimension to the symposium, allowing students to express their creativity and contribute to the vibrant atmosphere of the academic gathering."
       ],
       "contents": [
         {
           "Rules": [
-            "1 min video upload",
-            "The rules"
+            "Eligibility: Participants must be currently enrolled college students.",
+            "Time Limit: Performances are strictly limited to 1 minute.",
+            "Solo or Group Acts: Participants can perform individually or in groups, but the time limit remains 1 minute regardless.",
+            "Judging Criteria: Performances will be evaluated based on creativity, skill, entertainment value, and overall impact within the 1-minute timeframe.",
+            "Submission Deadline: Participants must submit their entries by the specified deadline to be considered for the talent show.",
+            "winner: winners are selected based on the performance and likes which will be posted on our instagram page."
           ]
         },
         {
@@ -765,7 +785,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Akash R - 7200761576"
           ]
         },
         {
@@ -773,8 +793,8 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1uqIZggYH411pyWaz2Y2rB1F35cNYN3V7b0G-thCilBY/edit'>here</a> to register",
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
@@ -783,16 +803,18 @@
       "name": "Logo Creation",
       "subline": "skill",
       "desc": [
-        "Topic - Social awareness"
+        "Feel free to imagine any theme for this contest !"
       ],
       "contents": [
         {
           "Rules": [
-            "Only 1 member can participate",
-            "The outcome should be relative with given theme",
-            "participants can use any software they want.",
-            "Copyrighted content cant be used.",
-            "Design should be below 5mb and  png format"
+            "Aspect ratio : 1:1",
+            "Craft an original logo, avoiding plagiarism.",
+            "The inclusion of any form of vulgarity in the logo design is strictly prohibited and will not be considered for the competition.",
+            "Align your logo with the theme or specified requirements.",
+            "Ensure clarity, especially when resized.",
+            "Design for scalability in various applications.",
+            "Be creative and have fun!"
           ]
         },
         {
@@ -800,7 +822,7 @@
         },
         {
           "Incharge": [
-            "name - phone.no"
+            "Rathish - 7871450699"
           ]
         },
         {
@@ -808,8 +830,8 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;' href='#'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "click <a style='all: revert;' href='https://docs.google.com/forms/d/1A6zXf_3uAINzeOobeCCjS6lSP8oK_lDKWTU_ew3f4nQ/edit'>here</a> to register",
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
