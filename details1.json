@@ -290,11 +290,18 @@
       "name": "PS5",
       "subline": "Game",
       "desc": [
-        "Fifa 24"
+        "It's a battleground for gamers seeking glory. Compete, conquer, and experience the thrill of next-gen gaming."
       ],
       "contents": [
         {
-          "Rules": []
+          "Rules": [
+            "Each team will consist of two players.",
+            "The match structure will involve two halves, each lasting for a duration of 4 minutes.",
+            "Fixture arrangements will be based on the total number of entries received.",
+            "Respectful and sportsmanlike communication is expected.",
+            "Follow the tournament bracket and schedule as provided.",
+            "Timely reporting of match results is essential for the progression of the competition."
+          ]
         },
         {
           "Rounds": []
