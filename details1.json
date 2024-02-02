@@ -14,12 +14,12 @@
           "Rules": [
             "A team must contain 3 members.",
             "Basic programming knowledge is required.",
-            "Discussion among participants will not be entertained.. If found so, the team will be disqualified.",
+            "Discussion among participants will not be entertained. If found so, the team will be disqualified.",
             "The winner is determined by the total points of each team."
           ]
         },
         {
-          "Rounds": []
+          "Rounds": ["Round - 1: MCQs","Round - 2: Coding Problems"]
         },
         {
           "Incharge": [
@@ -28,7 +28,8 @@
         },
         {
           "Venue": [
-            "DBMS lab"
+            "Main Block - Software Engineering Lab, 3rd Floor",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -45,23 +46,20 @@
       "name": "Codezilla",
       "subline": "coding event",
       "desc": [
-        "This coding event is of 3 hours and divided into 2 rounds.",
-        " First round will be a simple programming round.",
-        " Second round will be of reverse coding round."
+        "Gear up for the ultimate coding battle! Codezilla, our flagship coding competition, will challenge your programming prowess and problem-solving skills. Compete against the best and showcase your coding finesse."
       ],
       "contents": [
         {
           "Rules": [
-            "This coding event is of 3 hours and divided into 2 rounds.",
-            " First round will be a simple programming round.",
-            " Second round will be of reverse coding round.",
-            "Tie breaker round will be conducted if required.",
-            " Judges decision will be final.",
-            " Malpractices will not be entertained. If found any, he/she will be disqualified from the event."
-          ]
+            "This is an individual event.",
+            "Participants have to bring their own laptops.",
+            "C, C++, Java and Python are allowed.",
+            "Any malpractice will not be entertained.",
+            "Judges decision will be final."
         },
         {
-          "Rounds": []
+          "Rounds": ["It would be conducted in 3 rounds.","The first round would be basic programming.",
+            "Second round would be Reverse Coding. And in the third round company specific questions would be asked and based on your performance, you may be offered an internship. "]
         },
         {
           "Incharge": [
@@ -70,7 +68,8 @@
         },
         {
           "Venue": [
-            "SE lab"
+            "Main block - DBMS LAB, 3rd Floor.",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -104,12 +103,13 @@
         },
         {
           "Incharge": [
-            "Vinodhini P - 6381735365"
+            "Thamaraipriya - 9345882433"
           ]
         },
         {
           "Venue": [
-            "DS lab"
+            "Main block - 1302, 3rd Floor.",
+            "Timings : 12.30pm - 2.00pm"
           ]
         },
         {
@@ -126,20 +126,18 @@
       "name": "UI/UX design",
       "subline": "UI/UX Design",
       "desc": [
-        "This is an individual event which takes place for 1.5 hours.",
-        " It is a single round event where the participants will be given a theme on the spot.",
-        " The winner would be chosen based on judge's decision."
+        "It is a single round event where the participants will be given a website to recreate the UI/UX. The participant whose design is closest to the website"
       ],
       "contents": [
         {
           "Rules": [
             "This is an Individual event.",
             "Participants have to bring their own laptops.",
-            "Designing can be done in Figma/ Adobe XD.",
+            "Designing should be done in Figma.",
             "Design should not be done prior to the competition.",
-            "Participants should share their project URL.",
+            "Participants should share their Figma URL.",
             "Participants can use images of their own if necessary.",
-            "Participants should not use the pre-defined components from the external resources."
+            "Participants should not use the pre-defined components from the external resource."
           ]
         },
         {
@@ -147,12 +145,13 @@
         },
         {
           "Incharge": [
-            "Balaji R - 8072327298"
+            "Mohamed Ikram - 7299788770"
           ]
         },
         {
           "Venue": [
-            "PG block 5th floor lab"
+            "Main Block - OOPS Lab, 2nd Floor.",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -169,35 +168,30 @@
       "name": "Paper Presentation",
       "subline": "Buisness",
       "desc": [
-        "This event is to provide a platform for people to build their entrepreneurial journey by pitching and validating their ideas so that they can be implemented and get a chance to network with like-minded industry professionals."
+        "Prepare to delve into the depths of cutting-edge research and groundbreaking ideas at the Paper Presentation event. Aspiring researchers and scholars, this is your chance to showcase your in-depth understanding of contemporary IT trends and present your findings to an esteemed audience."
       ],
       "contents": [
         {
           "Rules": [
-            "A team can have 3-4 members.",
-            "Team can bring their prototypes, if any.",
-            "Create a pitch deck with your ideas and upload the following documents.",
-            "Each Team will have ten minutes to present their ideas",
-            "Copying an idea is strictly prohibited and disqualifies you.",
-            "The jury's decision is final.",
-            "The award will be based on the innovativeness and feasibility of the presented idea."
+            "Submit your research papers on topics and domains of recent technological trends.",
+            "A panel of experienced judges will evaluate the submissions based on innovation, relevance, and the depth of research.",
+            "Selected participants will have the opportunity to present their papers at \"Pinnacle\" and engage in insightful discussions with fellow researchers and attendees.",
+            "No vulnerability will be entertained." 
           ]
         },
         {
           "Rounds": [
-            "First round :Ideas would be pitched to professors.",
-            "Second round (Shortlisted teams):Ideas would be pitched to investors."
           ]
         },
         {
           "Incharge": [
-            "Giridharan K - 9566157645",
-            "Nandheetha V - 9789964639"
+            "Giridharan K - 9566157645"
           ]
         },
         {
           "Venue": [
-            "PG block 3rd floor-1"
+            " HI-TECH HALL - 1",
+            "Timings : 10.30am - 2.00pm"
           ]
         },
         {
@@ -220,13 +214,13 @@
       "contents": [
         {
           "Rules": [
-            "A team must contain 3 members.",
-            "Whichever team hits the buzzer first should answer within 10 seconds.",
-            "Host will decide who hits the buzzer first. Host’s decision would be final."
+            "Each member of a team should mandatorily purchase a register pass for participating in the technical events.",
+            "Only the top scoring teams advance to the next round each time.",
+            "The decision of the jury will be final."
           ]
         },
         {
-          "Rounds": []
+          "Rounds": ["There will be a total of 3 rounds - crosswords, connections, and dumb charades"]
         },
         {
           "Incharge": [
@@ -235,7 +229,8 @@
         },
         {
           "Venue": [
-            "OOPS lab"
+            "Main bock - 1301, 3rd Floor.",
+            "Timings : 12.30pm - 2.00pm"
           ]
         },
         {
@@ -271,13 +266,13 @@
         },
         {
           "Incharge": [
-            "Arul Kumaran KV - 8608771095",
-            "Akash R- 7200761576"
+            "Arul Kumaran KV - 8608771095"
           ]
         },
         {
           "Venue": [
-            "Main block 2nd floor-1204"
+            "PG Block - Web Technology Lab, 3rd Floor.",
+            "Timings : 12.30pm - 2.00pm"
           ]
         },
         {
@@ -296,13 +291,11 @@
       "name": "PS5",
       "subline": "Game",
       "desc": [
-        "description"
+        "Fifa 24"
       ],
       "contents": [
         {
-          "Rules": [
-            "The rules"
-          ]
+          "Rules": []
         },
         {
           "Rounds": []
@@ -317,7 +310,8 @@
         
         {
           "Venue": [
-            "Hi-Tech timing: 11.00 a.m"
+            "Hi-Tech Hall-2",
+            "Timings : 10.30am - 3.00pm"
           ]
         },
         {
@@ -330,8 +324,8 @@
         }
       ]
     },
-    "Start Music": {
-      "name": "Start Music",
+    "Audio Roulette": {
+      "name": "Audio Roulette",
       "subline": "Game",
       "desc": ["This event is based on music, features two members in each team competing in various music based rounds. Join us for an event of musical euphoria where fun is the key note."],
       "contents": [
@@ -352,14 +346,13 @@
         },
         {
           "Incharge": [
-            "Shruthikaa S - 8903529027",
-            "Tiana Maria M P  - 7305749641",
-            "Akhilan A - 9884725345"
+            "Shruthikaa S - 8903529027"
           ]
         },
         {
           "Venue": [
-            "Main block 2nd floor-1201"
+            "Main block 2nd floor-1202 ",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -391,12 +384,13 @@
         },
         {
           "Incharge": [
-            "Chinmyee S - 9176524488"
+            "Aishwariya– 8825531452"
           ]
         },
         {
           "Venue": [
-            "TRP"
+            "TRP Auditorium",
+            "Timings : 12.30pm - 2.00pm "
           ]
         },
         {
@@ -433,7 +427,8 @@
         },
         {
           "Venue": [
-            "Main block 3rd floor-1301"
+            "Main block 2nd floor-1203",
+            "Timings : 10.30am"
           ]
         },
         {
@@ -468,13 +463,13 @@
         },
         {
           "Incharge": [
-            "Srivatsan V - 8825422482",
-            "Sai Krishna - 8838199320"
+            "Srivatsan V - 8825422482"
           ]
         },
         {
           "Venue": [
-            "Main block 2nd floor-1203"
+            "Main block 2nd floor-DS Lab",
+            "Timings : 10.30am"
           ]
         },
         {
@@ -494,7 +489,11 @@
       "contents": [
         {
           "Rules": [
-            "The rules"
+            "A team can have maximum of two participants.",
+            "Individual participation also encouraged.",
+            "Embark on a trivia adventure with three captivating rounds! . The triumph of each round opens the gate to the next challenge! .",
+            "All participants must register prior to the event's deadline.",
+            "All decisions made by tournament organizers are final."
           ]
         },
         {
@@ -507,7 +506,8 @@
         },
         {
           "Venue": [
-            "Main block 3rd floor-1302"
+            "Main block 2nd floor-1201",
+            "Timings : 10.30am - 12.00pm"
           ]
         },
         {
@@ -520,14 +520,14 @@
         }
       ]
     },
-    "Anime Quiz": {
-      "name": "Anime Quiz",
+    "Realm Riddles(Anime)": {
+      "name": "Realm Riddles(Anime)",
       "subline": "Game",
       "desc": [],
       "contents": [
         {
           "Rules": [
-            "2 members per team",
+            "1-2 members per team",
             "Different rounds will there on anime content",
             "Each rounds have elimination",
             "Judges decision is final",
@@ -544,7 +544,8 @@
         },
         {
           "Venue": [
-            "Main block 3rd floor-1302"
+            "Main block 2nd floor-1201",
+            "Timings : 12.30pm - 2.00pm"
           ]
         },
         {
@@ -557,22 +558,24 @@
         }
       ]
     },
-    "Solo Singing": {
-      "name": "Solo Singing",
+    "Single Jam": {
+      "name": "Single Jam",
       "subline": "Game",
-      "desc": [],
+      "desc": [" You have the chance to exhibit your singing skills. The participants will be judged on the song selection, voice quality, clarity, rhythm and their appeal to the audience."],
       "contents": [
         {
           "Rules": [
-            "This is an Individual event.",
-            "Participants are allowed to sing in any language.",
-            "Participant will ge given 3  minutes time for singing",
+            "It is an individual event.",
+            "Participants are not allowed to refer lyrics.",
+            "Alloted time is 2 minutes.",
+            "Participants should bring their own karoke tracks.",
             "Any form of vulgarity will lead to disqualification.",
-            "Decision of the Judges will be final"
+            "Decisions of the judges will be final."
           ]
         },
         {
-          "Rounds": []
+          "Rounds": ["First round:Participants will take the stage alone and render a captivating performance.",
+            "Second round:Shortlisted performers enter round 2 where they must deliver an impromptu performance based their assigned genre."]
         },
         {
           "Incharge": [
@@ -581,7 +584,8 @@
         },
         {
           "Venue": [
-            "TRP"
+            "TRP Auditorium",
+            "Timings : 10.30am - 12.00pm "
           ]
         },
         {
@@ -597,8 +601,8 @@
     
   },
   "OnlineEvents": {
-    "Photography": {
-      "name": "Photography",
+    "Photography Contest": {
+      "name": "Photography Contest",
       "subline": "skill",
       "desc": ["Theme:- REFLECTION"],
       "contents": [
@@ -618,8 +622,7 @@
         },
         {
           "Incharge": [
-            "L. NITHIN SHIV SUNDAR - 9840627103",
-            "Arul Kumaran - 8608771095"
+            "L. NITHIN SHIV SUNDAR - 9840627103"
           ]
         },
         {
@@ -628,7 +631,7 @@
         {
           "Registration": [
             "click <a style='all: revert;' href='https://docs.google.com/forms/d/1kn83HszwcvtqFaiiUSZKyyaaurx0YQdd5OLOde6Nv2U/edit'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
@@ -719,7 +722,7 @@
         {
           "Registration": [
             "click <a style='all: revert;' href='https://docs.google.com/forms/d/17RPpY5t4g6MVNbN4M_jiQn5pmIpqokQXlYiUZn2-MNE/edit'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
@@ -755,7 +758,7 @@
         {
           "Registration": [
             "click <a style='all: revert;' href='https://docs.google.com/forms/d/1JKTZ6lUGcRjF24c8YYLcNKSa2mCnWmf7h7Yr6csl7Ys/edit'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
@@ -791,7 +794,7 @@
         {
           "Registration": [
             "click <a style='all: revert;' href='https://docs.google.com/forms/d/1uqIZggYH411pyWaz2Y2rB1F35cNYN3V7b0G-thCilBY/edit'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
@@ -800,16 +803,18 @@
       "name": "Logo Creation",
       "subline": "skill",
       "desc": [
-        "Topic - Social awareness"
+        "Feel free to imagine any theme for this contest !"
       ],
       "contents": [
         {
           "Rules": [
-            "Only 1 member can participate",
-            "The outcome should be relative with given theme",
-            "participants can use any software they want.",
-            "Copyrighted content cant be used.",
-            "Design should be below 5mb and  png format"
+            "Aspect ratio : 1:1",
+            "Craft an original logo, avoiding plagiarism.",
+            "The inclusion of any form of vulgarity in the logo design is strictly prohibited and will not be considered for the competition.",
+            "Align your logo with the theme or specified requirements.",
+            "Ensure clarity, especially when resized.",
+            "Design for scalability in various applications.",
+            "Be creative and have fun!"
           ]
         },
         {
@@ -826,7 +831,7 @@
         {
           "Registration": [
             "click <a style='all: revert;' href='https://docs.google.com/forms/d/1A6zXf_3uAINzeOobeCCjS6lSP8oK_lDKWTU_ew3f4nQ/edit'>here</a> to register",
-            "Registration Opens on 9th February and closes on 15th February."
+            "Registration Opens on 9th February and closes on 18th February."
           ]
         }
       ]
