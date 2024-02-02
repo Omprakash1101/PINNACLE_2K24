@@ -565,8 +565,6 @@
         {
           "Rules": [
             "It is an individual event.",
-            "Registration can be made either online or at the venue 30 minutes prior the event.",
-            "Registration fee has to be paid to the event coordinator at the venue 30 minutes prior the event.",
             "Participants are not allowed to refer the lyrics.",
             "Allotted time for round 1 is 2 minutes and round 2 is 1 minute.",
             "Participants can bring their own karaoke tracks if needed.",
@@ -641,16 +639,19 @@
       "name": "Poster Making",
       "subline": "skill",
       "desc": [
-        "The inforamtion will be updated soon as possible",
-        "Dates - 21 & 22 Febraury, 6:00pm"
+        "Feel free to imagine any theme for this contest!"
       ],
       "contents": [
         {
           "Rules": [
-            "Platform – Account",
-            "All players are allowed to have only one (1) account.",
-            "You are not allowed to share or use another person’s account. Your account is for your use and your use alone.",
-            "Failing to join within 10 minutes after the scheduled time will lead to disqualification."
+            "Aspect Ratio : 4:3",
+            "Be original, avoiding clichés or overused formats.",
+            "Align your poster with the contest’s theme.",
+            "Adhere to content guidelines, avoiding inappropriate material.",
+            "Follow specified submission guidelines and Submit before the deadline.",
+            "Craft clear and creative posters.",
+            "Avoid copyrighted materials.",
+            "Please ensure your submission includes a brief description outlining the concept or idea behind your entry."
           ]
         },
         {
