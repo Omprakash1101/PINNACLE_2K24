@@ -87,6 +87,26 @@
                            23th FEBRUARY 24 - Save the date, and find yourself at the pinnacle of this 
                            techy non-exclusive extravaganza!
                         </p>
+			      <script>
+                        $.getJSON( "https://Omprakash1101.github.io/PINNACLE_2K24/sponsors.json", function( data ) {
+                        console.log(data);
+                        
+                        
+                        for (var key in data) {
+                         if (data.hasOwnProperty(key)) {
+                        str="";
+                            data[key].forEach(function (arrayItem) {
+                        
+                        str=str+'<div class="grid-item"><div class="img-wrapper"><img src="'+arrayItem["imgurl"]+'" width="150px" ></div><div href="'+arrayItem["link"]+'" class="sponcor-name" >'+arrayItem["name"]+'</div></div>'; 
+                        
+                        })
+                        document.getElementsByClassName("grid-container")[0].innerHTML = document.getElementsByClassName("grid-container")[0].innerHTML+str;
+                        }}
+                        });
+                        
+                        
+                     </script>
+
                      </div>
 					  <style>
 	
