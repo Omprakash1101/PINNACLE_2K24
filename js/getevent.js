@@ -29,7 +29,6 @@ xhttp.onreadystatechange = function() {
     }
 };
 xhttp.open("GET", "https://pinnacle2k24.world/index.html", true);
-xhttp.send();
 
 $(document).ready(function() {
     if (navigator.userAgent.indexOf("Firefox") > 0) {
