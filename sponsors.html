@@ -73,7 +73,7 @@
                         str="";
                             data[key].forEach(function (arrayItem) {
                         
-                        str=str+'<div class="grid-item"><div class="img-wrapper"><img src="'+arrayItem["imgurl"]+'" width="150px" ></div><div href="'+arrayItem["link"]+'" class="sponcor-name" >'+arrayItem["name"]+'</div></div>'; 
+                        str=str+'<div class="grid-item"><div class="img-wrapper"><a href="'+arrayItem["link"]+'"><img src="'+arrayItem["imgurl"]+'" width="150px" ></a></div><div href="'+arrayItem["link"]+'" class="sponcor-name" >'+arrayItem["name"]+'</div></div>'; 
                         
                         })
                         document.getElementsByClassName("grid-container")[0].innerHTML = document.getElementsByClassName("grid-container")[0].innerHTML+str;
