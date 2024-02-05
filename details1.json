@@ -132,7 +132,7 @@
         {
           "Rules": [
             "This is an Individual event.",
-            "Participants have to bring their own laptops.",
+            "Participants have to bring their own laptops and chargers.",
             "Designing should be done in Figma.",
             "Design should not be done prior to the competition.",
             "Participants should share their Figma URL.",
@@ -155,7 +155,7 @@
           ]
         },
         {
-          "Entry Fee":["₹40/person","Registration Fees mandatory(₹150)"]
+          "Entry Fee":["₹50/person","Registration Fees mandatory(₹150)"]
         },
         {
           "Registration": [
