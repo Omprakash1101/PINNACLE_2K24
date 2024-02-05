@@ -12,7 +12,7 @@
       "contents": [
         {
           "Rules": [
-            "A team must contain 3 members.",
+            "A team may contain a maximum of two members",
             "Basic programming knowledge is required.",
             "Discussion among participants will not be entertained. If found so, the team will be disqualified.",
             "The winner is determined by the total points of each team."
