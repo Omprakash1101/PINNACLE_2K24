@@ -147,6 +147,14 @@
          </div>
       </div>
       <script>
+	        function register(type)	  {
+            var btn = document.getElementsByClassName("cyberpunk2077 btnsubmit")[0];
+            localStorage.setItem("eventtype",type);
+            localStorage.setItem("eventname",btn.value);
+            return true;
+            
+            
+            }
          var obj = document.getElementsByClassName("link");
          for (var i = 0; i < obj.length; i++) {
          
@@ -164,7 +172,7 @@
          
          });
          
-         }		  
+         }
          $(".container2").delay(3000).fadeOut();
          	  $(".stripe").delay(3100).fadeIn();
           $(".topic1").delay(5000).fadeIn();
