@@ -97,10 +97,10 @@
                         
                         for (var key in data) {
                          if (data.hasOwnProperty(key)) {
-                        str='<h1  class="cyberpunk glitched" style="padding:15px">Title Sponsor </h1>';
+                        str='<h1  class="cyberpunk glitched" style="padding:15px 0px">Title Sponsor </h1>';
                             data[key].forEach(function (arrayItem) {
                         
-                        str=str+'<div class="grid-item"><div class="img-wrapper" style="padding:10px"><a href="'+arrayItem["link"]+'"><img src="'+arrayItem["imgurl"]+'" width="200px" ></a></div><div href="'+arrayItem["link"]+'" class="sponcor-name" >'+arrayItem["name"]+'</div></div>'; 
+                        str=str+'<div class="grid-item"><div class="img-wrapper" style="padding:10px 0px"><a href="'+arrayItem["link"]+'"><img src="'+arrayItem["imgurl"]+'" width="200px" ></a></div><div href="'+arrayItem["link"]+'" class="sponcor-name" >'+arrayItem["name"]+'</div></div>'; 
                         
                         })
                         document.getElementsByClassName("grid-container")[0].innerHTML = document.getElementsByClassName("grid-container")[0].innerHTML+str;
