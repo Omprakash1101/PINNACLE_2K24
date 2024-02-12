@@ -64,31 +64,6 @@
    <div class="grid-container">
                    
                      </div>
-                     <script>
-                        $.getJSON( "https://pinnacle2k24.world/sponsors1.json", function( data ) {
-                        console.log(data);
-                        
-                        
-                        for (var key in data) {
-                         if (data.hasOwnProperty(key)) {
-                        str="";
-                            data[key].forEach(function (arrayItem) {
-                        
-                        str=str+'<div class="grid-item"><div class="img-wrapper"><a href="'+arrayItem["link"]+'"><img src="'+arrayItem["imgurl"]+'" width="150px" ></a></div><div href="'+arrayItem["link"]+'" class="sponcor-name" >'+arrayItem["name"]+'</div></div>'; 
-                        
-                        })
-                        document.getElementsByClassName("grid-container")[0].innerHTML = document.getElementsByClassName("grid-container")[0].innerHTML+str;
-                        }}
-                        });
-                        
-                        
-                     </script>
-
-
-
-					 
-
-	
                      <div class="rightside"><img src="img/logo.png" ></div>
                      <style>
                      </style>
